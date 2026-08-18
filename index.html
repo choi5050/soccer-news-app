@@ -1,0 +1,120 @@
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>5대 리그 오늘의 축구 뉴스</title>
+<style>
+  :root{
+    --bg:#0b0e14; --card:#141924; --card-hover:#1b2230; --border:#232a3a;
+    --text:#e8ecf4; --muted:#8a93a6; --accent:#4f8dff; --accent2:#22c55e;
+  }
+  *{box-sizing:border-box;}
+  body{margin:0;background:var(--bg);color:var(--text);font-family:'Segoe UI',-apple-system,'Malgun Gothic',sans-serif;}
+  header{padding:28px 24px 12px;text-align:center;}
+  header h1{margin:0 0 6px;font-size:26px;font-weight:800;}
+  header p{margin:0;color:var(--muted);font-size:13px;}
+  .tabs{display:flex;gap:8px;justify-content:center;flex-wrap:wrap;padding:18px 12px;}
+  .tab{padding:9px 18px;border-radius:999px;background:var(--card);border:1px solid var(--border);
+       color:var(--muted);cursor:pointer;font-size:14px;font-weight:600;transition:.15s;}
+  .tab.active{background:var(--accent);color:#fff;border-color:var(--accent);}
+  .tab:hover{border-color:var(--accent);}
+  main{max-width:900px;margin:0 auto;padding:0 16px 60px;}
+  .grid{display:flex;flex-direction:column;gap:12px;}
+  .card{background:var(--card);border:1px solid var(--border);border-radius:14px;padding:16px 18px;
+        transition:.15s;text-decoration:none;color:inherit;display:block;}
+  .card:hover{background:var(--card-hover);border-color:var(--accent);transform:translateY(-1px);}
+  .card-top{display:flex;justify-content:flex-start;align-items:center;margin-bottom:6px;gap:8px;flex-wrap:wrap;}
+  .source{font-size:12px;font-weight:700;color:var(--accent);}
+  .badge{font-size:10px;background:rgba(34,197,94,.15);color:var(--accent2);padding:2px 8px;border-radius:999px;font-weight:700;}
+  .badge-main{font-size:10px;background:rgba(79,141,255,.2);color:#7fb0ff;padding:2px 8px;border-radius:999px;font-weight:700;}
+  .badge-support{font-size:10px;background:rgba(245,166,35,.2);color:#f5a623;padding:2px 8px;border-radius:999px;font-weight:700;}
+  .badge-rm{font-size:10px;background:rgba(255,255,255,.18);color:#fff;padding:2px 8px;border-radius:999px;font-weight:700;}
+  .time{font-size:11px;color:var(--muted);margin-left:auto;}
+  .title{font-size:15.5px;font-weight:700;margin:4px 0 6px;line-height:1.4;}
+  .summary{font-size:13px;color:var(--muted);line-height:1.5;}
+  .empty{text-align:center;color:var(--muted);padding:50px 0;font-size:14px;}
+  footer{text-align:center;color:var(--muted);font-size:12px;padding:20px;}
+  .legend{text-align:center;font-size:12px;color:var(--muted);margin-bottom:6px;}
+</style>
+</head>
+<body>
+<header>
+  <h1>⚽ 5대 리그 오늘의 축구 뉴스</h1>
+  <p id="updated">데이터 불러오는 중...</p>
+</header>
+<div class="tabs" id="tabs"></div>
+<div class="legend">★ 파랑 = 리그 메인 기자 · 주황 = 보강 기자 · 흰색 = 레알 마드리드 우선 노출(라리가)</div>
+<main><div class="grid" id="grid"></div></main>
+<footer>
+  출처: BBC Sport · Sky Sports · ESPN FC · The Guardian · Marca · AS · Real Madrid 공식 · Gazzetta dello Sport · Football Italia · CaughtOffside · L'Équipe · Get French Football News · Kicker · Bundesliga 공식<br>
+  지정 기자: David Ornstein / Sid Lowe / Paolo Bandini / Raphael Honigstein / Jonathan Johnson 외 보강 기자 다수<br>
+  최근 48시간 내 게시물만 표시 · fetch_news.py 실행 시마다 자동 갱신
+</footer>
+
+<script>
+const LEAGUE_LABELS = {EPL:"프리미어리그", LaLiga:"라리가", Bundesliga:"분데스리가", SerieA:"세리에A", Ligue1:"리그앙"};
+let DATA = null, current = "EPL";
+
+function timeAgo(iso){
+  if(!iso) return "";
+  const d = new Date(iso), now = new Date();
+  const diffH = Math.floor((now - d) / 3600000);
+  if(diffH < 1) return "방금 전";
+  if(diffH < 24) return diffH + "시간 전";
+  return Math.floor(diffH/24) + "일 전";
+}
+
+function render(){
+  const grid = document.getElementById("grid");
+  const items = (DATA.leagues[current] || []);
+  if(items.length === 0){
+    grid.innerHTML = '<div class="empty">해당 리그의 최근 뉴스가 없습니다.</div>';
+    return;
+  }
+  grid.innerHTML = items.map(it => {
+    let repBadge = "";
+    if(it.reporter_tier === "메인 기자") repBadge = `<span class="badge-main">★ ${it.reporter}</span>`;
+    else if(it.reporter_tier === "보강 기자") repBadge = `<span class="badge-support">${it.reporter}</span>`;
+    const rmBadge = it.real_madrid ? `<span class="badge-rm">레알 마드리드</span>` : "";
+    return `
+    <a class="card" href="${it.link}" target="_blank" rel="noopener">
+      <div class="card-top">
+        <span class="source">${it.source}</span>
+        <span class="badge">${it.trust}</span>
+        ${repBadge}
+        ${rmBadge}
+        <span class="time">${timeAgo(it.published)}</span>
+      </div>
+      <div class="title">${it.title}</div>
+      <div class="summary">${it.summary}</div>
+    </a>
+  `;
+  }).join("");
+}
+
+function renderTabs(){
+  const tabs = document.getElementById("tabs");
+  tabs.innerHTML = Object.keys(LEAGUE_LABELS).map(lg =>
+    `<div class="tab ${lg===current?'active':''}" data-lg="${lg}">${LEAGUE_LABELS[lg]} (${(DATA.leagues[lg]||[]).length})</div>`
+  ).join("");
+  tabs.querySelectorAll(".tab").forEach(t => t.onclick = () => {
+    current = t.dataset.lg; renderTabs(); render();
+  });
+}
+
+fetch("data.json?t=" + Date.now())
+  .then(r => r.json())
+  .then(d => {
+    DATA = d;
+    document.getElementById("updated").textContent =
+      "마지막 갱신: " + new Date(d.generated_at).toLocaleString("ko-KR");
+    renderTabs();
+    render();
+  })
+  .catch(() => {
+    document.getElementById("updated").textContent = "데이터를 불러오지 못했습니다. fetch_news.py를 먼저 실행하세요.";
+  });
+</script>
+</body>
+</html>
