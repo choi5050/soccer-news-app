@@ -134,7 +134,7 @@ def main():
                 reporter, reporter_tier = detect_reporter(league, blob)
                 item = {
                     "title": title,
-                    "summary": summary[:220],
+                    "summary": summary[:600],
                     "link": link,
                     "source": src["name"],
                     "trust": src["trust"],
