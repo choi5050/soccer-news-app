@@ -2,8 +2,8 @@ name: Update soccer news
 
 on:
   schedule:
-    - cron: '0 23 * * *'
-  workflow_dispatch: {}
+    - cron: '0 23 * * *'   # 매일 UTC 23:00 = 한국시간(KST) 오전 8:00
+  workflow_dispatch: {}     # 수동 실행 버튼도 사용 가능
 
 permissions:
   contents: write
@@ -19,7 +19,7 @@ jobs:
           python-version: '3.11'
 
       - name: Install dependencies
-        run: pip install feedparser
+        run: pip install feedparser deep-translator
 
       - name: Fetch latest news
         run: python fetch_news.py
