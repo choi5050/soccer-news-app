@@ -1,20 +1,24 @@
 {
-  "generated_at": "2026-08-20T13:48:33.665787+00:00",
+  "generated_at": "2026-08-20T14:14:08.502583+00:00",
   "leagues": {
     "EPL": [
       {
-        "title": "How will your club fare? Phil McNulty's Premier League predictions",
-        "summary": "How will your club fare in the 2026-27 Premier League? BBC chief football writer Phil McNulty makes his annual predictions.",
-        "link": "https://www.bbc.co.uk/sport/football/articles/c5ye50qz7yqo?at_medium=RSS&at_campaign=rss",
+        "title": "How to follow the Premier League opening weekend on the BBC",
+        "fact_brief": "주제: 경기 결과/프리뷰 · 보도: BBC Sport",
+        "summary": "Our Ask Me Anything team explains how to follow the opening matches of the Premier League season on the BBC this weekend.",
+        "link": "https://www.bbc.co.uk/sport/football/articles/cp30ggvqj0do?at_medium=RSS&at_campaign=rss",
         "source": "BBC Sport",
         "trust": "언론",
-        "published": "2026-08-19T05:21:19+00:00",
-        "reporter": "Phil McNulty",
-        "reporter_tier": "보강 기자",
+        "published": "2026-08-20T14:07:37+00:00",
+        "reporter": null,
+        "reporter_tier": null,
+        "reporter_verified": false,
+        "is_interview": false,
         "real_madrid": false
       },
       {
         "title": "'100 per cent' - Arteta confident Lewis-Skelly stays at Arsenal",
+        "fact_brief": "관련 구단: Arsenal · 주제: 이적 관련, 경기 결과/프리뷰 · 보도: Sky Sports",
         "summary": "Mikel Arteta says he is \"100 per cent\" confident Myles Lewis-Skelly will be an Arsenal player at the end of the transfer window.",
         "link": "https://www.skysports.com/football/news/12040/13575044/myles-lewis-skelly-transfer-news-mikel-arteta-100-per-cent-confident-arsenal-will-keep-teenage-midfielder-this-summer",
         "source": "Sky Sports",
@@ -22,10 +26,41 @@
         "published": "2026-08-20T14:04:00+00:00",
         "reporter": null,
         "reporter_tier": null,
+        "reporter_verified": false,
+        "is_interview": false,
+        "real_madrid": false
+      },
+      {
+        "title": "Once homeless and in liquidation, Coventry seek 'fearless' PL return",
+        "fact_brief": "관련 구단: Arsenal, Coventry · 보도: Sky Sports",
+        "summary": "The groundswell of excitement in the city of Coventry is palpable. Frank Lampard's side play their first Premier League game in over 25 years at the home of champions Arsenal on Friday night, live on Sky Sports. Only four months ago fans were lining the streets to celebrate the Championship title.",
+        "link": "https://www.skysports.com/football/news/12040/13575020/arsenal-vs-coventry-premier-league-new-boys-approaching-season-with-no-fear-under-frank-lampard",
+        "source": "Sky Sports",
+        "trust": "언론",
+        "published": "2026-08-20T14:00:00+00:00",
+        "reporter": null,
+        "reporter_tier": null,
+        "reporter_verified": false,
+        "is_interview": false,
+        "real_madrid": false
+      },
+      {
+        "title": "Napoli set Hojlund a 20-goal target as Allegri eyes new level from Dane",
+        "fact_brief": "관련 구단: Manchester United, Napoli · 보도: Football Italia",
+        "summary": "Napoli made Rasmus Hojlund’s move from Manchester United permanent for €44m this summer, and Massimiliano...",
+        "link": "https://football-italia.net/napoli-set-hojlund-a-20-goal-target/",
+        "source": "Football Italia",
+        "trust": "언론",
+        "published": "2026-08-20T14:00:00+00:00",
+        "reporter": null,
+        "reporter_tier": null,
+        "reporter_verified": false,
+        "is_interview": false,
         "real_madrid": false
       },
       {
         "title": "Aston Villa eye Milan defender Tomori as Konsa’s Arsenal exit nears",
+        "fact_brief": "관련 구단: Arsenal, Aston Villa · 보도: Football Italia",
         "summary": "Aston Villa have identified Fikayo Tomori as a potential defensive reinforcement, with Ezri Konsa’s move...",
         "link": "https://football-italia.net/aston-villa-eye-milan-defender-tomori-konsa/",
         "source": "Football Italia",
@@ -33,32 +68,41 @@
         "published": "2026-08-20T13:35:23+00:00",
         "reporter": null,
         "reporter_tier": null,
+        "reporter_verified": false,
+        "is_interview": false,
         "real_madrid": false
       },
       {
         "title": "West Ham condemn ‘offensive and divisive’ chant about Israel winger Manor Solomon",
-        "summary": "Club urge fans to drop chant with ‘anti-Palestine message’Section of away crowd sang chant during game at BurnleyWest Ham have condemned “an offensive and divisive chant” and urged fans not to sing it at their first Championship home game of the season against Charlton Athletic this Saturday.The chant, which relates to Israel winger Manor Solomon and includes an “anti-Palestine message”, was sung by a section of the club’s away support during their opening game against Burnley last Sunday, which ended in a 2-2 draw. Continue reading...",
+        "fact_brief": "관련 구단: West Ham, Burnley · 주제: 경기 결과/프리뷰 · 보도: Guardian Football",
+        "summary": "Club urge fans to drop chant with ‘anti-Palestine message’Section of away crowd sang chant during game at BurnleyWest Ham have condemned “an offensive and divisive chant” and urged fans not to sing it at their first Championship home game of the season against Charlton Athletic this Saturday.The chant, which relates to Israel winger Manor Solomon and includes an “anti-Palestine message”, was sung ",
         "link": "https://www.theguardian.com/football/2026/aug/20/west-ham-condemn-offensive-divisive-chant-about-israel-winger-manor-solomon",
         "source": "Guardian Football",
         "trust": "언론",
         "published": "2026-08-20T13:31:41+00:00",
         "reporter": null,
         "reporter_tier": null,
+        "reporter_verified": false,
+        "is_interview": false,
         "real_madrid": false
       },
       {
-        "title": "\"Er ist wieder der Alte\": Schicker über geplatzten Asslani-Transfer",
-        "summary": "Andreas Schicker freut sich auf die kommende Saison. Der Sportgeschäftsführer der TSG Hoffenheim spricht im kicker-Interview auch über den geplatzten Asslani-Transfer und über die Gerüchte rund um Leon Avdullah.",
-        "link": "https://www.kicker.de/er-ist-wieder-der-alte-schicker-ueber-geplatzten-asslani-transfer-1245298/video#omrss",
+        "title": "\"Er ist wieder der Alte\": Schicker über geplatzten Asllani-Transfer",
+        "fact_brief": "관련 구단: Hoffenheim · 형식: 인터뷰/1인칭 발언 포함 기사 · 주제: 이적 관련 · 보도: Kicker Bundesliga",
+        "summary": "Andreas Schicker freut sich auf die kommende Saison. Der Sportgeschäftsführer der TSG Hoffenheim spricht im kicker-Interview auch über den geplatzten Asllani-Transfer und über die Gerüchte rund um Leon Avdullahu.",
+        "link": "https://www.kicker.de/er-ist-wieder-der-alte-schicker-ueber-geplatzten-asllani-transfer-1245298/video#omrss",
         "source": "Kicker Bundesliga",
         "trust": "언론",
         "published": "2026-08-20T13:21:42+00:00",
         "reporter": null,
         "reporter_tier": null,
+        "reporter_verified": false,
+        "is_interview": true,
         "real_madrid": false
       },
       {
         "title": "All done deals in August 2026",
+        "fact_brief": "주제: 이적 관련 · 보도: BBC Sport",
         "summary": "Check out the significant signings and departures in the Premier League, Scottish Premiership, EFL and Women's Super League.",
         "link": "https://www.bbc.co.uk/sport/football/articles/c9v4d2z2p7yo?at_medium=RSS&at_campaign=rss",
         "source": "BBC Sport",
@@ -66,10 +110,13 @@
         "published": "2026-08-20T13:15:43+00:00",
         "reporter": null,
         "reporter_tier": null,
+        "reporter_verified": false,
+        "is_interview": false,
         "real_madrid": false
       },
       {
         "title": "Methalie à Sunderland, les raisons du blocage",
+        "fact_brief": "관련 구단: Sunderland · 보도: L'Équipe Football",
         "summary": "",
         "link": "https://www.lequipe.fr/Football/Article/Une-blessure-au-dos-contestee-et-des-versions-qui-s-opposent-dayann-methalie-a-sunderland-les-raisons-du-blocage/1712158#at_medium=RSS_feeds",
         "source": "L'Équipe Football",
@@ -77,10 +124,13 @@
         "published": "2026-08-20T13:13:00+00:00",
         "reporter": null,
         "reporter_tier": null,
+        "reporter_verified": false,
+        "is_interview": false,
         "real_madrid": false
       },
       {
         "title": "Premier League reset: Record manager upheaval leaves 2026/27 wide open",
+        "fact_brief": "주제: 감독/코칭스태프 · 보도: Sky Sports",
         "summary": "There's a sense of unpredictability surrounding the new Premier League campaign.",
         "link": "https://www.skysports.com/football/news/12040/13574814/premier-league-managers-2026-27-record-new-bosses-manager-changes-and-tenure",
         "source": "Sky Sports",
@@ -88,10 +138,13 @@
         "published": "2026-08-20T13:00:00+00:00",
         "reporter": null,
         "reporter_tier": null,
+        "reporter_verified": false,
+        "is_interview": false,
         "real_madrid": false
       },
       {
         "title": "The Premier League's new plan to end corner chaos",
+        "fact_brief": "보도: BBC Sport",
         "summary": "Holding, pushing, shoving, jostling and grappling. It became something of an epidemic in the Premier League last season - here's what's being done to fix it.",
         "link": "https://www.bbc.co.uk/sport/football/articles/c0jl03lv775o?at_medium=RSS&at_campaign=rss",
         "source": "BBC Sport",
@@ -99,10 +152,13 @@
         "published": "2026-08-20T12:53:03+00:00",
         "reporter": null,
         "reporter_tier": null,
+        "reporter_verified": false,
+        "is_interview": false,
         "real_madrid": false
       },
       {
         "title": "When will Curtis Jones complete €35m transfer to Inter?",
+        "fact_brief": "관련 구단: Liverpool · 주제: 이적 관련 · 보도: Football Italia",
         "summary": "Inter and Liverpool have come to an agreement for the transfer of English midfielder Curtis...",
         "link": "https://football-italia.net/when-will-curtis-jones-complete-inter-transfer/",
         "source": "Football Italia",
@@ -110,10 +166,13 @@
         "published": "2026-08-20T11:56:40+00:00",
         "reporter": null,
         "reporter_tier": null,
+        "reporter_verified": false,
+        "is_interview": false,
         "real_madrid": false
       },
       {
         "title": "Arsenal make transfer decision on Milan-linked Nwaneri",
+        "fact_brief": "관련 구단: Arsenal · 주제: 이적 관련 · 보도: Football Italia",
         "summary": "Reports in the UK claim that Arsenal have come to a decision not to part...",
         "link": "https://football-italia.net/arsenal-make-transfer-decision-on-nwaneri/",
         "source": "Football Italia",
@@ -121,10 +180,13 @@
         "published": "2026-08-20T11:39:28+00:00",
         "reporter": null,
         "reporter_tier": null,
+        "reporter_verified": false,
+        "is_interview": false,
         "real_madrid": false
       },
       {
         "title": "Jaissle on pain which set him on path to Newcastle and speaking with Howe",
+        "fact_brief": "관련 구단: Newcastle · 주제: 부상 소식 · 보도: BBC Sport",
         "summary": "New Newcastle United boss Matthias Jaissle says having his playing career ended by injury at the age of 25 showed him that adversity can lead to opportunity.",
         "link": "https://www.bbc.co.uk/sport/football/articles/c171k9kd94zo?at_medium=RSS&at_campaign=rss",
         "source": "BBC Sport",
@@ -132,21 +194,27 @@
         "published": "2026-08-20T11:29:18+00:00",
         "reporter": null,
         "reporter_tier": null,
+        "reporter_verified": false,
+        "is_interview": false,
         "real_madrid": false
       },
       {
         "title": "Who replaces Salah as Africa's Premier League king?",
-        "summary": "Following Mohamed Salah's Liverpool exit after nine seasons, who could take the  Egyptian King's crown as Africa's biggest Premier League star?",
+        "fact_brief": "관련 구단: Liverpool · 주제: 경기 결과/프리뷰 · 보도: BBC Sport",
+        "summary": "Following Mohamed Salah's Liverpool exit after nine seasons, who could take the Egyptian King's crown as Africa's biggest Premier League star?",
         "link": "https://www.bbc.co.uk/sport/football/articles/c20dgvp9445o?at_medium=RSS&at_campaign=rss",
         "source": "BBC Sport",
         "trust": "언론",
         "published": "2026-08-20T11:03:10+00:00",
         "reporter": null,
         "reporter_tier": null,
+        "reporter_verified": false,
+        "is_interview": false,
         "real_madrid": false
       },
       {
         "title": "Premier League 2026-27 preview No 18: Nottingham Forest",
+        "fact_brief": "관련 구단: Nottingham Forest · 주제: 경기 결과/프리뷰, 감독/코칭스태프 · 보도: Guardian Football",
         "summary": "After a chaotic season under four different coaches, Forest fans will be hoping Oliver Glasner can bring some stabilityGuardian writers’ predicted position: 11th (NB: this is not necessarily Will Unwin’s prediction but the average of our writers’ tips)Last season’s position: 16th Continue reading...",
         "link": "https://www.theguardian.com/football/2026/aug/20/premier-league-2026-27-preview-no-18-nottingham-forest",
         "source": "Guardian Football",
@@ -154,21 +222,27 @@
         "published": "2026-08-20T11:00:50+00:00",
         "reporter": null,
         "reporter_tier": null,
+        "reporter_verified": false,
+        "is_interview": false,
         "real_madrid": false
       },
       {
-        "title": "Frank Lampard wants Coventry to play without fear in Premier League",
-        "summary": "Promoted club have targeted players 6ft and above‘Physicality is a big part of what you need to compete’Frank Lampard has urged his Coventry players to impose themselves on the Premier League, calling on his side to ensure they have no regrets after Friday’s curtain-raiser against Arsenal.Coventry play their first top-flight game in 25 years at the home of the champions, four months after celebrating the Championship title. Lampard, who last managed in the Premier League with Chelsea three years ago, acknowledges there is a step up in class to navigate, but wants his players to embrace the cha",
+        "title": "Frank Lampard urges Coventry to play without fear in Premier League",
+        "fact_brief": "관련 구단: Arsenal, Chelsea, Coventry · 보도: Guardian Football",
+        "summary": "Promoted club have targeted players 6ft and above‘Physicality is a big part of what you need to compete’Frank Lampard has urged his Coventry players to impose themselves on the Premier League, calling on his side to ensure they have no regrets after Friday’s curtain-raiser against Arsenal.Coventry play their first top-flight game in 25 years at the home of the champions, four months after celebrat",
         "link": "https://www.theguardian.com/football/2026/aug/20/frank-lampard-coventry-play-without-fear-premier-league",
         "source": "Guardian Football",
         "trust": "언론",
         "published": "2026-08-20T10:44:59+00:00",
         "reporter": null,
         "reporter_tier": null,
+        "reporter_verified": false,
+        "is_interview": false,
         "real_madrid": false
       },
       {
         "title": "Konsa set for Arsenal medical before £50m-plus move",
+        "fact_brief": "관련 구단: Arsenal, Aston Villa · 보도: BBC Sport",
         "summary": "Arsenal agree a deal worth more than £50m to sign Aston Villa and England defender Ezri Konsa.",
         "link": "https://www.bbc.co.uk/sport/football/articles/c98vz9jvg0vo?at_medium=RSS&at_campaign=rss",
         "source": "BBC Sport",
@@ -176,21 +250,13 @@
         "published": "2026-08-20T10:25:40+00:00",
         "reporter": null,
         "reporter_tier": null,
-        "real_madrid": false
-      },
-      {
-        "title": "Aston Villa ready to raid Chelsea to replace Arsenal bound Ezri Konsa",
-        "summary": "Aston Villa have turned their attention to Chelsea centre-back Tosin Adarabioyo as Unai Emery prepares for life without Ezri Konsa. Konsa is set to leave Villa Park after Arsenal agreed a £51 million deal for the England international. Want more CaughtOffside coverage? Add us as a preferred source on Google to your favourites list for […]\nThe post Aston Villa ready to raid Chelsea to replace Arsenal bound Ezri Konsa appeared first on CaughtOffside.",
-        "link": "https://www.caughtoffside.com/2026/08/20/aston-villa-ready-to-raid-chelsea-replace-konsa/",
-        "source": "CaughtOffside (Romano)",
-        "trust": "기자",
-        "published": "2026-08-20T09:59:02+00:00",
-        "reporter": null,
-        "reporter_tier": null,
+        "reporter_verified": false,
+        "is_interview": false,
         "real_madrid": false
       },
       {
         "title": "Trippier suffers knee injury on Wolves league debut",
+        "fact_brief": "관련 구단: Wolves · 주제: 부상 소식 · 보도: BBC Sport",
         "summary": "Wolverhampton Wanderers confirm right-back Kieran Trippier suffered a knee ligament injury during his league debut for the club against Blackburn.",
         "link": "https://www.bbc.co.uk/sport/football/articles/ckgd5x38p74o?at_medium=RSS&at_campaign=rss",
         "source": "BBC Sport",
@@ -198,10 +264,13 @@
         "published": "2026-08-20T09:58:50+00:00",
         "reporter": null,
         "reporter_tier": null,
+        "reporter_verified": false,
+        "is_interview": false,
         "real_madrid": false
       },
       {
         "title": "West Ham condemn 'divisive' chant about Israel's Solomon",
+        "fact_brief": "관련 구단: West Ham, Burnley · 주제: 경기 결과/프리뷰 · 보도: BBC Sport",
         "summary": "West Ham urge their fans to stop an \"anti-Palestine\" chant about Manor Solomon that was heard during their match at Burnley last weekend.",
         "link": "https://www.bbc.co.uk/sport/football/articles/cr7kydmyj70o?at_medium=RSS&at_campaign=rss",
         "source": "BBC Sport",
@@ -209,32 +278,13 @@
         "published": "2026-08-20T09:32:35+00:00",
         "reporter": null,
         "reporter_tier": null,
-        "real_madrid": false
-      },
-      {
-        "title": "“Still a big issue” – Roy Keane points finger at Man United problems despite new signings",
-        "summary": "Manchester United’s pursuit of Carlos Baleba has created fresh optimism around Michael Carrick’s squad, but Roy Keane believes one major weakness could still prevent his former club from challenging for the Premier League title. United have already strengthened their midfield this summer and are now pushing to add Brighton’s Baleba. Want more CaughtOffside coverage? Add […]\nThe post “Still a big issue” – Roy Keane points finger at Man United problems despite new signings appeared first on CaughtOffside.",
-        "link": "https://www.caughtoffside.com/2026/08/20/roy-keane-points-finger-at-man-united-problems/",
-        "source": "CaughtOffside (Romano)",
-        "trust": "기자",
-        "published": "2026-08-20T09:23:39+00:00",
-        "reporter": null,
-        "reporter_tier": null,
-        "real_madrid": false
-      },
-      {
-        "title": "Romano confirms Arsenal attacker emerges as shock target for Saudi side Al-Hilal",
-        "summary": "Gabriel Martinelli’s Arsenal future has taken another twist, with Saudi Pro League giants Al-Hilal placing the Brazilian winger on a three-man shortlist as they search for another high-profile attacking addition. The 25-year-old has already attracted significant interest during the summer transfer window, but his preference has consistently been to continue his career in Europe. Want […]\nThe post Romano confirms Arsenal attacker emerges as shock target for Saudi side Al-Hilal appeared first on CaughtOffside.",
-        "link": "https://www.caughtoffside.com/2026/08/20/romano-confirms-arsenal-attacker-shock-target-saudi/",
-        "source": "CaughtOffside (Romano)",
-        "trust": "기자",
-        "published": "2026-08-20T09:02:54+00:00",
-        "reporter": null,
-        "reporter_tier": null,
+        "reporter_verified": false,
+        "is_interview": false,
         "real_madrid": false
       },
       {
         "title": "Spurs in talks to sign Man City's Savinho and Marmoush",
+        "fact_brief": "관련 구단: Man City, Manchester City · 보도: BBC Sport",
         "summary": "Spurs open talks with Manchester City to sign attacking duo Omar Marmoush and Savinho.",
         "link": "https://www.bbc.co.uk/sport/football/articles/cz645z0w3ypo?at_medium=RSS&at_campaign=rss",
         "source": "BBC Sport",
@@ -242,10 +292,13 @@
         "published": "2026-08-20T09:01:26+00:00",
         "reporter": null,
         "reporter_tier": null,
+        "reporter_verified": false,
+        "is_interview": false,
         "real_madrid": false
       },
       {
         "title": "Pick your club's best XI for this season",
+        "fact_brief": "주제: 경기 결과/프리뷰 · 보도: BBC Sport",
         "summary": "As Premier League teams prepare to kick off the new season, we want you to pick your club's best XI.",
         "link": "https://www.bbc.co.uk/sport/football/articles/cwyrk8xgr0lo?at_medium=RSS&at_campaign=rss",
         "source": "BBC Sport",
@@ -253,10 +306,13 @@
         "published": "2026-08-20T09:01:21+00:00",
         "reporter": null,
         "reporter_tier": null,
+        "reporter_verified": false,
+        "is_interview": false,
         "real_madrid": false
       },
       {
         "title": "Man City join Man Utd in Kone race - Thursday's gossip",
+        "fact_brief": "관련 구단: Man City, Manchester City, Man Utd · 보도: BBC Sport",
         "summary": "Manchester City look set to rival neighbours Manchester United for Manu Kone, Aston Villa interested in Tosin Adarabioyo and Tottenham in talks over Man City duo.",
         "link": "https://www.bbc.co.uk/sport/football/articles/cn0n4qlxyq7o?at_medium=RSS&at_campaign=rss",
         "source": "BBC Sport",
@@ -264,10 +320,13 @@
         "published": "2026-08-20T08:59:24+00:00",
         "reporter": null,
         "reporter_tier": null,
+        "reporter_verified": false,
+        "is_interview": false,
         "real_madrid": false
       },
       {
         "title": "Mercato : Tottenham souhaite recruter deux joueurs de Manchester City, Savinho et Omar Marmoush",
+        "fact_brief": "관련 구단: Manchester City, Tottenham · 보도: L'Équipe Football",
         "summary": "Tottenham avance sur les dossiers Savinho et Omar Marmoush, tous deux joueurs de Manchester City. Selon « The Athletic », les discussions entre les deux clubs progressent, même si aucun accord n'a encore été conclu.",
         "link": "https://www.lequipe.fr/Football/Actualites/Mercato-tottenham-souhaite-recruter-deux-joueurs-de-manchester-city-savinho-et-omar-marmoush/1712257#at_medium=RSS_feeds",
         "source": "L'Équipe Football",
@@ -275,34 +334,57 @@
         "published": "2026-08-20T08:37:53+00:00",
         "reporter": null,
         "reporter_tier": null,
+        "reporter_verified": false,
+        "is_interview": false,
+        "real_madrid": false
+      },
+      {
+        "title": "Opening half-hour of TNT Sports’ Premier League broadcasts to be shown on YouTube",
+        "fact_brief": "관련 구단: Manchester United · 주제: 경기 결과/프리뷰 · 보도: Guardian Football",
+        "summary": "Early Kick Off show on before Hull v Manchester UnitedMatch previews available free-to-air for the first timeTNT Sports will make the first 30 minutes of their live Premier League broadcasts available on YouTube this season starting with Manchester United’s visit to Hull on Saturday.The pre-Premier League show EKO – Early Kick Off – will be available free-to-air for the first time, as well as on T",
+        "link": "https://www.theguardian.com/football/2026/aug/20/opening-half-hour-of-tnt-sports-premier-league-broadcasts-to-be-shown-on-youtube",
+        "source": "Guardian Football",
+        "trust": "언론",
+        "published": "2026-08-20T08:00:46+00:00",
+        "reporter": null,
+        "reporter_tier": null,
+        "reporter_verified": false,
+        "is_interview": false,
         "real_madrid": false
       }
     ],
     "LaLiga": [
       {
         "title": "‘He doubted’: Mourinho says Real Madrid did not want Rodri after hesitation over move",
-        "summary": "Mourinho: Madrid made midfielder ‘a very good offer’Spain captain chose to join Barcelona instead for £65.4mJosé Mourinho has confirmed Real Madrid made Rodri an offer and that he spoke to him about joining the club, but claimed the player’s doubts about the transfer made him unsure about signing Spain’s World Cup-winning captain.On the same day Rodri was presented at Barcelona after the completion of a €75m (£65.4m) move from Manchester City that the midfielder said was “always my first choice”, Mourinho insisted he would not miss him at the Santiago Bernabéu. “I spoke to him a couple of time",
+        "fact_brief": "관련 구단: Manchester City, Real Madrid, Barcelona · 형식: 인터뷰/1인칭 발언 포함 기사 · 주제: 이적 관련, 경기 결과/프리뷰 · 보도: Guardian Football",
+        "summary": "Mourinho: Madrid made midfielder ‘a very good offer’Spain captain chose to join Barcelona instead for £65.4mJosé Mourinho has confirmed Real Madrid made Rodri an offer and that he spoke to him about joining the club, but claimed the player’s doubts about the transfer made him unsure about signing Spain’s World Cup-winning captain.On the same day Rodri was presented at Barcelona after the completio",
         "link": "https://www.theguardian.com/football/2026/aug/19/jose-mourinho-real-madrid-rodri-barcelona-transfer-offer",
         "source": "Guardian Football",
         "trust": "언론",
         "published": "2026-08-19T13:42:13+00:00",
         "reporter": "Sid Lowe",
         "reporter_tier": "메인 기자",
+        "reporter_verified": true,
+        "is_interview": true,
         "real_madrid": true
       },
       {
         "title": "Vanja Drkusic: \"Estoy preparado para jugar ante el Real Madrid”",
-        "summary": "El central se muestra ilusionado con esta nueva aventura como perico y es ambicioso de cara al nuevo curso  Leer",
+        "fact_brief": "관련 구단: Real Madrid, Como · 보도: Marca",
+        "summary": "El central se muestra ilusionado con esta nueva aventura como perico y es ambicioso de cara al nuevo curso Leer",
         "link": "https://www.marca.com/futbol/espanyol/2026/08/19/vanja-drkusic-preparado-jugar-real-madrid.html",
         "source": "Marca",
         "trust": "언론",
         "published": "2026-08-19T16:04:59+00:00",
         "reporter": null,
         "reporter_tier": null,
+        "reporter_verified": false,
+        "is_interview": false,
         "real_madrid": true
       },
       {
         "title": "Italy talent Tresoldi an option for Barcelona after Lewandowski",
+        "fact_brief": "관련 구단: Barcelona · 주제: 경기 결과/프리뷰 · 보도: Football Italia",
         "summary": "Barcelona are on the search for a new option at centre-forward following the departure of...",
         "link": "https://football-italia.net/italy-talent-tresoldi-an-option-for-barcelona/",
         "source": "Football Italia",
@@ -310,10 +392,13 @@
         "published": "2026-08-20T13:04:50+00:00",
         "reporter": null,
         "reporter_tier": null,
+        "reporter_verified": false,
+        "is_interview": false,
         "real_madrid": false
       },
       {
         "title": "Diego Simeone revient sur les insultes adressées à Julian Alvarez : « J'ai un grand respect pour nos supporters »",
+        "fact_brief": "관련 구단: Atlético · 보도: L'Équipe Football",
         "summary": "Absent lors de la victoire de l'Atlético de Madrid contre Malaga (2-0), Julian Alvarez a tout de même été au centre des discussions au Metropolitano. Les supporters colchoneros ont notamment scandé des insultes à l'encontre de l'attaquant argentin, une situation sur laquelle Diego Simeone est revenu après la rencontre.",
         "link": "https://www.lequipe.fr/Football/Actualites/Diego-simeone-revient-sur-les-insultes-adressees-a-julian-alvarez-j-ai-un-grand-respect-pour-nos-supporters/1712288#at_medium=RSS_feeds",
         "source": "L'Équipe Football",
@@ -321,54 +406,69 @@
         "published": "2026-08-20T12:45:08+00:00",
         "reporter": null,
         "reporter_tier": null,
+        "reporter_verified": false,
+        "is_interview": false,
         "real_madrid": false
       },
       {
         "title": "Fede Redondo se prepara para el reto del Barcelona: “Será un partido lindo para el espectador”",
-        "summary": "El centrocampista argentino, reconvertido por Anselmi en central, destaca la dificultad de frenar al vigente campeón y asegura que el Elche afronta el duelo “con valentía”  Leer",
+        "fact_brief": "관련 구단: Barcelona, Elche · 보도: Marca",
+        "summary": "El centrocampista argentino, reconvertido por Anselmi en central, destaca la dificultad de frenar al vigente campeón y asegura que el Elche afronta el duelo “con valentía” Leer",
         "link": "https://www.marca.com/futbol/elche/2026/08/20/fede-redondo-prepara-reto-barcelona-sera-partido-lindo-espectador.html",
         "source": "Marca",
         "trust": "언론",
         "published": "2026-08-20T11:47:12+00:00",
         "reporter": null,
         "reporter_tier": null,
+        "reporter_verified": false,
+        "is_interview": false,
         "real_madrid": false
       },
       {
         "title": "Manu Fernández se va al Cádiz",
-        "summary": "Firma por tres temporadas y el Celta se guarda opción de recompra  Leer",
+        "fact_brief": "관련 구단: Celta · 보도: Marca",
+        "summary": "Firma por tres temporadas y el Celta se guarda opción de recompra Leer",
         "link": "https://www.marca.com/futbol/celta/2026/08/20/manu-fernandez-cadiz.html",
         "source": "Marca",
         "trust": "언론",
         "published": "2026-08-20T11:14:59+00:00",
         "reporter": null,
         "reporter_tier": null,
+        "reporter_verified": false,
+        "is_interview": false,
         "real_madrid": false
       },
       {
         "title": "El Sevilla recupera a Alfon",
-        "summary": "El extremo regresa a los entrenamientos tras superar su lesión; Vargas trabaja al margen  Leer",
+        "fact_brief": "관련 구단: Sevilla · 보도: Marca",
+        "summary": "El extremo regresa a los entrenamientos tras superar su lesión; Vargas trabaja al margen Leer",
         "link": "https://www.marca.com/futbol/sevilla/2026/08/20/sevilla-recupera-alfon.html",
         "source": "Marca",
         "trust": "언론",
         "published": "2026-08-20T11:05:14+00:00",
         "reporter": null,
         "reporter_tier": null,
+        "reporter_verified": false,
+        "is_interview": false,
         "real_madrid": false
       },
       {
         "title": "Pellegrini: \"La plantilla es bastante parecida a la del año pasado\"",
-        "summary": "El Ingeniero comparece ante los medios en la previa del estreno liguero ante la Real Sociedad  Leer",
+        "fact_brief": "관련 구단: Real Sociedad · 보도: Marca",
+        "summary": "El Ingeniero comparece ante los medios en la previa del estreno liguero ante la Real Sociedad Leer",
         "link": "https://www.marca.com/futbol/betis/2026/08/20/pellegrini-plantilla-parecida-ano-pasado.html",
         "source": "Marca",
         "trust": "언론",
         "published": "2026-08-20T10:40:38+00:00",
         "reporter": null,
         "reporter_tier": null,
+        "reporter_verified": false,
+        "is_interview": false,
         "real_madrid": false
       },
       {
         "title": "Barcelona face striker dilemma - could they cope without one?",
+        "fact_brief": "관련 구단: Barcelona · 보도: BBC Sport",
         "summary": "Barcelona are heading into the new La Liga season without an established striker, with Hansi Flick yet to replace Robert Lewandowski and Ferran Torres.",
         "link": "https://www.bbc.co.uk/sport/football/articles/cyvlr6mz15no?at_medium=RSS&at_campaign=rss",
         "source": "BBC Sport",
@@ -376,21 +476,27 @@
         "published": "2026-08-20T08:44:57+00:00",
         "reporter": null,
         "reporter_tier": null,
+        "reporter_verified": false,
+        "is_interview": false,
         "real_madrid": false
       },
       {
         "title": "Diez días de sequía en el mercado",
-        "summary": "Al Celta le quedan varios movimientos pendientes  Leer",
+        "fact_brief": "관련 구단: Celta · 보도: Marca",
+        "summary": "Al Celta le quedan varios movimientos pendientes Leer",
         "link": "https://www.marca.com/futbol/celta/2026/08/20/diez-dias-sequia-mercado.html",
         "source": "Marca",
         "trust": "언론",
         "published": "2026-08-20T08:37:18+00:00",
         "reporter": null,
         "reporter_tier": null,
+        "reporter_verified": false,
+        "is_interview": false,
         "real_madrid": false
       },
       {
         "title": "Inter have clear stance on Lautaro Martinez after reports of Barcelona interest",
+        "fact_brief": "관련 구단: Barcelona · 주제: 이적 관련 · 보도: Football Italia",
         "summary": "Reports in Italy and Spain claim that Barcelona are interested in an audacious move to...",
         "link": "https://football-italia.net/inter-have-clear-stance-on-lautaro-barcelona/",
         "source": "Football Italia",
@@ -398,166 +504,197 @@
         "published": "2026-08-20T08:14:25+00:00",
         "reporter": null,
         "reporter_tier": null,
+        "reporter_verified": false,
+        "is_interview": false,
         "real_madrid": false
       },
       {
         "title": "El Oympiacos presenta una oferta de 12 millones por Rubén Vargas",
-        "summary": "El suizo prefiere jugar la Champions; el Sevilla, una cifra que ronde los 20 millones de euros  Leer",
+        "fact_brief": "관련 구단: Sevilla · 보도: Marca",
+        "summary": "El suizo prefiere jugar la Champions; el Sevilla, una cifra que ronde los 20 millones de euros Leer",
         "link": "https://www.marca.com/futbol/sevilla/2026/08/20/oympiacos-presenta-oferta-12-millones-ruben-vargas.html",
         "source": "Marca",
         "trust": "언론",
         "published": "2026-08-20T08:02:58+00:00",
         "reporter": null,
         "reporter_tier": null,
+        "reporter_verified": false,
+        "is_interview": false,
         "real_madrid": false
       },
       {
         "title": "Rayo Vallecano - Alavés: horario y dónde ver hoy por TV y online el partido de LaLiga EA Sports",
-        "summary": "Se enfrentan en el Estadio de Butarque ante la imposibilidad de jugar en Vallecas  Leer",
+        "fact_brief": "보도: Marca",
+        "summary": "Se enfrentan en el Estadio de Butarque ante la imposibilidad de jugar en Vallecas Leer",
         "link": "https://www.marca.com/futbol/primera-division/2026/08/20/rayo-vallecano-alaves-horario-donde-ver-hoy-tv-online-partido-laliga-ea-sports.html",
         "source": "Marca",
         "trust": "언론",
         "published": "2026-08-20T07:58:39+00:00",
         "reporter": null,
         "reporter_tier": null,
+        "reporter_verified": false,
+        "is_interview": false,
         "real_madrid": false
       },
       {
         "title": "El Valencia ahora sí que pone precio por Danjuma: tasado en poco más de cuatro millones de euros",
-        "summary": "El acercamiento con insistencia del PSV hace que su situación varíe a la espera de que los contactos se aceleren para ver si hay 'quorum' y a finales de mercado tiene precio de salida  Leer",
+        "fact_brief": "관련 구단: Valencia · 보도: Marca",
+        "summary": "El acercamiento con insistencia del PSV hace que su situación varíe a la espera de que los contactos se aceleren para ver si hay 'quorum' y a finales de mercado tiene precio de salida Leer",
         "link": "https://www.marca.com/futbol/valencia/2026/08/20/valencia-pone-precio-danjuma-tasado-poco-cuatro-millones-euros.html",
         "source": "Marca",
         "trust": "언론",
         "published": "2026-08-20T06:04:42+00:00",
         "reporter": null,
         "reporter_tier": null,
+        "reporter_verified": false,
+        "is_interview": false,
         "real_madrid": false
       },
       {
         "title": "Maffeo ya está en Valencia",
-        "summary": "El lateral aterriza en la ciudad del Turia y hoy pasará revisión médica antes de firmar la cesión por una temporada&nbsp;  Leer",
+        "fact_brief": "관련 구단: Valencia · 보도: Marca",
+        "summary": "El lateral aterriza en la ciudad del Turia y hoy pasará revisión médica antes de firmar la cesión por una temporada&nbsp; Leer",
         "link": "https://www.marca.com/futbol/valencia/2026/08/20/maffeo-valencia.html",
         "source": "Marca",
         "trust": "언론",
         "published": "2026-08-20T00:49:52+00:00",
         "reporter": null,
         "reporter_tier": null,
+        "reporter_verified": false,
+        "is_interview": false,
         "real_madrid": false
       },
       {
         "title": "Funes: \"Nos vamos orgullosos de nuestra personalidad hoy ante el Atlético\"",
-        "summary": "El técnico hizo un balance positivo pese a la derrota  Leer",
+        "fact_brief": "관련 구단: Atlético · 보도: Marca",
+        "summary": "El técnico hizo un balance positivo pese a la derrota Leer",
         "link": "https://www.marca.com/futbol/malaga/2026/08/20/funes-orgullosos-nuestra-personalidad-hoy-atletico.html",
         "source": "Marca",
         "trust": "언론",
         "published": "2026-08-19T22:27:11+00:00",
         "reporter": null,
         "reporter_tier": null,
+        "reporter_verified": false,
+        "is_interview": false,
         "real_madrid": false
       },
       {
         "title": "El Celta es optimista acerca de la llegada de André Almeida",
-        "summary": "La operación aún no está cerrada y antes debe salir Matías Vecino  Leer",
+        "fact_brief": "관련 구단: Celta · 보도: Marca",
+        "summary": "La operación aún no está cerrada y antes debe salir Matías Vecino Leer",
         "link": "https://www.marca.com/futbol/celta/2026/08/19/celta-optimista-acerca-llegada-andre-almeida.html",
         "source": "Marca",
         "trust": "언론",
         "published": "2026-08-19T18:41:53+00:00",
         "reporter": null,
         "reporter_tier": null,
+        "reporter_verified": false,
+        "is_interview": false,
         "real_madrid": false
       },
       {
         "title": "Monchi: “Prefiero tardar un poco, pero que cuadre 100%",
-        "summary": "El director deportivo perico ha repasado la situación del Espanyol en el mercado y ha explicado el trabajo que queda por hacer  Leer",
+        "fact_brief": "관련 구단: Deportivo · 보도: Marca",
+        "summary": "El director deportivo perico ha repasado la situación del Espanyol en el mercado y ha explicado el trabajo que queda por hacer Leer",
         "link": "https://www.marca.com/futbol/espanyol/2026/08/19/monchi-prefiero-tardar-poco-cuadre-100.html",
         "source": "Marca",
         "trust": "언론",
         "published": "2026-08-19T14:49:13+00:00",
         "reporter": null,
         "reporter_tier": null,
+        "reporter_verified": false,
+        "is_interview": false,
         "real_madrid": false
       },
       {
         "title": "Atlético de Madrid - Málaga: horario, dónde ver en TV y online el partido de la jornada 1 de LaLiga EA Sports",
-        "summary": "Se enfrentan en el Riyadh Air Metropolitano en el partido correspondiente a la jornada 1 de LaLiga  Leer",
+        "fact_brief": "관련 구단: Atlético · 보도: Marca",
+        "summary": "Se enfrentan en el Riyadh Air Metropolitano en el partido correspondiente a la jornada 1 de LaLiga Leer",
         "link": "https://www.marca.com/futbol/primera-division/2026/08/19/atletico-madrid-malaga-horario-donde-ver-tv-online-partido-jornada-1-laliga-ea-sports.html",
         "source": "Marca",
         "trust": "언론",
         "published": "2026-08-19T14:00:40+00:00",
         "reporter": null,
         "reporter_tier": null,
+        "reporter_verified": false,
+        "is_interview": false,
         "real_madrid": false
       },
       {
         "title": "Hugo González: “He trabajado durante toda mi vida para esto”",
-        "summary": "El valenciano se enfrenta al club en el que debutó en Primera y formará parte de la primera plantilla céltica  Leer",
+        "fact_brief": "관련 구단: Valencia · 보도: Marca",
+        "summary": "El valenciano se enfrenta al club en el que debutó en Primera y formará parte de la primera plantilla céltica Leer",
         "link": "https://www.marca.com/futbol/celta/2026/08/19/hugo-gonzalez-he-trabajado-durante-toda-mi-vida-esto.html",
         "source": "Marca",
         "trust": "언론",
         "published": "2026-08-19T13:31:18+00:00",
         "reporter": null,
         "reporter_tier": null,
+        "reporter_verified": false,
+        "is_interview": false,
         "real_madrid": false
       },
       {
         "title": "LaLiga deniega el aplazamiento del Rayo-Alavés: se jugará en Butarque",
-        "summary": "El Rayo había solicitado que el partido no se jugara para poder hacerlo en Vallecas más adelante  Leer",
+        "fact_brief": "보도: Marca",
+        "summary": "El Rayo había solicitado que el partido no se jugara para poder hacerlo en Vallecas más adelante Leer",
         "link": "https://www.marca.com/futbol/primera-division/2026/08/19/laliga-deniega-aplazamiento-rayo-alaves-jugara-butarque.html",
         "source": "Marca",
         "trust": "언론",
         "published": "2026-08-19T12:10:39+00:00",
         "reporter": null,
         "reporter_tier": null,
+        "reporter_verified": false,
+        "is_interview": false,
         "real_madrid": false
       },
       {
         "title": "Dónde ver en TV el Rayo Vallecano - Alavés de LaLiga EA Sports",
-        "summary": "Se enfrentan en el Estadio de Butarque ante la imposibilidad de jugar en Vallecas  Leer",
+        "fact_brief": "보도: Marca",
+        "summary": "Se enfrentan en el Estadio de Butarque ante la imposibilidad de jugar en Vallecas Leer",
         "link": "https://www.marca.com/futbol/primera-division/2026/08/18/donde-ver-en-tv-el-rayo-vallecano-alaves-de-laliga-ea-sports.html",
         "source": "Marca",
         "trust": "언론",
         "published": "2026-08-19T09:27:58+00:00",
         "reporter": null,
         "reporter_tier": null,
+        "reporter_verified": false,
+        "is_interview": false,
         "real_madrid": false
       },
       {
         "title": "Carlos Soler: \"Es un año ilusionante, con cuatro competiciones y estamos con muchas ganas\"",
-        "summary": "El valenciano apunta a seguir siendo muy importante para la Real en la 2026-27  Leer",
+        "fact_brief": "관련 구단: Valencia · 보도: Marca",
+        "summary": "El valenciano apunta a seguir siendo muy importante para la Real en la 2026-27 Leer",
         "link": "https://www.marca.com/futbol/real-sociedad/2026/08/19/carlos-soler-ano-ilusionante-cuatro-competiciones-muchas-ganas.html",
         "source": "Marca",
         "trust": "언론",
         "published": "2026-08-19T09:25:53+00:00",
         "reporter": null,
         "reporter_tier": null,
+        "reporter_verified": false,
+        "is_interview": false,
         "real_madrid": false
       },
       {
         "title": "La Real se pone guapa para LaLiga",
-        "summary": "Los futbolistas de la plantilla txuriurdin han escogido la ropa de calle para la nueva temporada 2026-27  Leer",
+        "fact_brief": "보도: Marca",
+        "summary": "Los futbolistas de la plantilla txuriurdin han escogido la ropa de calle para la nueva temporada 2026-27 Leer",
         "link": "https://www.marca.com/futbol/real-sociedad/2026/08/19/real-pone-guapa-laliga.html",
         "source": "Marca",
         "trust": "언론",
         "published": "2026-08-19T09:18:36+00:00",
         "reporter": null,
         "reporter_tier": null,
-        "real_madrid": false
-      },
-      {
-        "title": "To the well and back - how Malaga returned to La Liga",
-        "summary": "After tumbling from the Champions League to the depths of Spain's semi-professional third tier, Malaga are back in La Liga after almost a decade away.",
-        "link": "https://www.bbc.co.uk/sport/football/articles/cn8nx2wnjq9o?at_medium=RSS&at_campaign=rss",
-        "source": "BBC Sport",
-        "trust": "언론",
-        "published": "2026-08-19T08:01:45+00:00",
-        "reporter": null,
-        "reporter_tier": null,
+        "reporter_verified": false,
+        "is_interview": false,
         "real_madrid": false
       }
     ],
     "Bundesliga": [
       {
         "title": "Ricken zu bisheriger BVB-Transferphase: \"Haben unsere Hausaufgaben gemacht\"",
+        "fact_brief": "관련 구단: Bayern, Borussia Dortmund · 주제: 이적 관련 · 보도: Kicker Bundesliga",
         "summary": "Am Samstag trifft Borussia Dortmund gleich im ersten Pflichtspiel der neuen Saison im Supercup auf den FC Bayern. Auf der Pressekonferenz am Donnerstagmittag äußerten sich Trainer Niko Kovac und Sport-Geschäftsführer Lars Ricken zu den bisherigen Transferaktivitäten.",
         "link": "https://www.kicker.de/ricken-zu-bisheriger-bvb-transferphase-haben-unsere-hausaufgaben-gemacht-1245250/artikel#omrss",
         "source": "Kicker Bundesliga",
@@ -565,10 +702,13 @@
         "published": "2026-08-20T13:12:17+00:00",
         "reporter": null,
         "reporter_tier": null,
+        "reporter_verified": false,
+        "is_interview": false,
         "real_madrid": false
       },
       {
         "title": "Ricken: \"Möchte nicht, dass die Bayern bei uns einen Titel feiern\"",
+        "fact_brief": "관련 구단: Bayern · 보도: Kicker Bundesliga",
         "summary": "Niko Kovac wehrt sich gegen den Eindruck des \"unwichtigen\" Supercups und erinnert dabei an den Ehrgeiz als Leistungssportler. Auch Lars Ricken erinnert, dass er den FC Bayern nicht in Dortmund jubeln sehen will.",
         "link": "https://www.kicker.de/ricken-moechte-nicht-dass-die-bayern-bei-uns-einen-titel-feiern-1245282/video#omrss",
         "source": "Kicker Bundesliga",
@@ -576,10 +716,13 @@
         "published": "2026-08-20T12:15:02+00:00",
         "reporter": null,
         "reporter_tier": null,
+        "reporter_verified": false,
+        "is_interview": false,
         "real_madrid": false
       },
       {
         "title": "\"Erschreckende Bilder\": Ricken und Kovac sprechen Mitgefühl mit Musiala aus",
+        "fact_brief": "관련 구단: Bayern · 보도: Kicker Bundesliga",
         "summary": "Lars Ricken und Niko Kovac sprachen am Donnerstag vor dem Supercup gegen die Bayern ihr Mitgefühl und ihre Unterstützung für Jamal Musiala aus, nachdem der zuletzt zwei Mal auf dem Feld zusammenbrach.",
         "link": "https://www.kicker.de/erschreckende-bilder-ricken-und-kovac-sprechen-mitgefuehl-mit-musiala-aus-1245278/video#omrss",
         "source": "Kicker Bundesliga",
@@ -587,10 +730,13 @@
         "published": "2026-08-20T12:03:25+00:00",
         "reporter": null,
         "reporter_tier": null,
+        "reporter_verified": false,
+        "is_interview": false,
         "real_madrid": false
       },
       {
         "title": "Bundesliga Man of the Match awards get bigger in second season",
+        "fact_brief": "주제: 경기 결과/프리뷰 · 보도: Bundesliga 공식",
         "summary": "You can get voting again as the popular Man of the Match award is back for a second season in 2026/27 - and has gained a high-profile partner with adidas.",
         "link": "https://www.bundesliga.com/en/bundesliga/news/man-of-the-match-award-adidas-fan-voting-38706",
         "source": "Bundesliga 공식",
@@ -598,10 +744,13 @@
         "published": "2026-08-20T12:00:00+00:00",
         "reporter": null,
         "reporter_tier": null,
+        "reporter_verified": false,
+        "is_interview": false,
         "real_madrid": false
       },
       {
         "title": "Freiburg face Motherwell in UEFA Conference League play-off round",
+        "fact_brief": "관련 구단: Freiburg · 주제: 경기 결과/프리뷰 · 보도: Bundesliga 공식",
         "summary": "Freiburg kick off their season against Motherwell in a UEFA Conference League play-off qualifier on Thursday (kick-off 8.30pm CEST), where a place in the 36-team league phase will be at stake.",
         "link": "https://www.bundesliga.com/en/bundesliga/news/freiburg-motherwell-conference-league-play-off-opponents-38463",
         "source": "Bundesliga 공식",
@@ -609,10 +758,13 @@
         "published": "2026-08-20T11:37:45+00:00",
         "reporter": null,
         "reporter_tier": null,
+        "reporter_verified": false,
+        "is_interview": false,
         "real_madrid": false
       },
       {
         "title": "\"Erfolg für den Schutz der Fans\": Bundesliga gewinnt Rechtsstreit gegen Viagogo",
+        "fact_brief": "주제: 경기 결과/프리뷰 · 보도: Kicker Bundesliga",
         "summary": "Die Bundesliga hat sich vor Gericht gegen Ticket-Zwischenhändler Viagogo durchgesetzt. Das Oberlandesgericht München wertete mehrere Geschäftspraktiken des Unternehmens als irreführend. Das hat für Viagogo nun Konsequenzen.",
         "link": "https://www.kicker.de/erfolg-fuer-den-schutz-der-fans-bundesliga-gewinnt-rechtsstreit-gegen-viagogo-1245237/artikel#omrss",
         "source": "Kicker Bundesliga",
@@ -620,10 +772,13 @@
         "published": "2026-08-20T10:34:16+00:00",
         "reporter": null,
         "reporter_tier": null,
+        "reporter_verified": false,
+        "is_interview": false,
         "real_madrid": false
       },
       {
         "title": "Bayern Munich and NHL announce partnership",
+        "fact_brief": "관련 구단: Bayern · 보도: Bundesliga 공식",
         "summary": "Bundesliga champions Bayern Munich and the National Hockey League have teamed up for an exciting new multi-year initiative, aimed at both developing the NHL in Germany and Bayern in North America.",
         "link": "https://www.bundesliga.com/en/bundesliga/news/bayern-munich-nhl-partnership-ice-hockey-38708",
         "source": "Bundesliga 공식",
@@ -631,10 +786,13 @@
         "published": "2026-08-20T10:13:01+00:00",
         "reporter": null,
         "reporter_tier": null,
+        "reporter_verified": false,
+        "is_interview": false,
         "real_madrid": false
       },
       {
         "title": "Der Goldene Schuh für Harry Kane: Ein Blick hinter die Kulissen",
+        "fact_brief": "관련 구단: Bayern · 보도: Kicker Bundesliga",
         "summary": "Im Fußballmuseum des FC Bayern München hat Harry Kane vom kicker den Goldenen Schuh für den besten Torjäger der Saison 2025/26 erhalten. Wir haben Eindrücke und Stimmen von der Veranstaltung gesammelt.",
         "link": "https://www.kicker.de/der-goldene-schuh-fuer-harry-kane-ein-blick-hinter-die-kulissen-1245239/video#omrss",
         "source": "Kicker Bundesliga",
@@ -642,10 +800,13 @@
         "published": "2026-08-20T10:11:52+00:00",
         "reporter": null,
         "reporter_tier": null,
+        "reporter_verified": false,
+        "is_interview": false,
         "real_madrid": false
       },
       {
         "title": "Vote for your Bundesliga 2 away Kit Kings for 2026/27!",
+        "fact_brief": "보도: Bundesliga 공식",
         "summary": "Bundesliga 2 Kit Kings is back! Which side in Germany’s second division has the best away kit for the 2026/27 season? Cast your vote in the app now!",
         "link": "https://www.bundesliga.com/en/2bundesliga/news/vote-best-away-jersey-second-division-26-27-38616",
         "source": "Bundesliga 공식",
@@ -653,10 +814,13 @@
         "published": "2026-08-20T10:02:57+00:00",
         "reporter": null,
         "reporter_tier": null,
+        "reporter_verified": false,
+        "is_interview": false,
         "real_madrid": false
       },
       {
         "title": "Kane verrät: So unterstütze ich Musiala",
+        "fact_brief": "관련 구단: Bayern · 보도: Kicker Bundesliga",
         "summary": "Harry Kane sprach am Rande des Golden Shoe 2026 Jamal Musiala seine volle Unterstützung aus. Auch Jan-Christian Dreesen hatte lobende Worte für den Bayern-Profi.",
         "link": "https://www.kicker.de/kane-verraet-so-unterstuetze-ich-musiala-1245225/video#omrss",
         "source": "Kicker Bundesliga",
@@ -664,10 +828,13 @@
         "published": "2026-08-20T09:38:22+00:00",
         "reporter": null,
         "reporter_tier": null,
+        "reporter_verified": false,
+        "is_interview": false,
         "real_madrid": false
       },
       {
         "title": "Borussia Mönchengladbach sign Japanese defender Ko Itakura from Ajax",
+        "fact_brief": "관련 구단: Borussia Mönchengladbach · 주제: 이적 관련 · 보도: Bundesliga 공식",
         "summary": "Borussia Mönchengladbach have completed the signing of Japanese defender Ko Itakura from Dutch club Ajax.",
         "link": "https://www.bundesliga.com/en/bundesliga/news/borussia-monchengladbach-sign-japanese-defender-ko-itakura-ajax-38696",
         "source": "Bundesliga 공식",
@@ -675,10 +842,13 @@
         "published": "2026-08-20T08:28:44+00:00",
         "reporter": null,
         "reporter_tier": null,
+        "reporter_verified": false,
+        "is_interview": false,
         "real_madrid": false
       },
       {
         "title": "\"Habe den Verein sehr vermisst\": Itakura kehrt nach Gladbach zurück",
+        "fact_brief": "관련 구단: Borussia Mönchengladbach · 주제: 이적 관련 · 보도: Kicker Bundesliga",
         "summary": "Borussia Mönchengladbach hat auf den Abgang von Nico Elvedi reagiert und ist auf dem Transfermarkt tätig geworden: Mit Ko Itakura wechselt ein altbekannter Innenverteidiger zurück an den Niederrhein - und das deutlich günstiger als bei seinem Abschied vor einem Jahr.",
         "link": "https://www.kicker.de/habe-den-verein-sehr-vermisst-itakura-kehrt-nach-gladbach-zurueck-1244475/artikel#omrss",
         "source": "Kicker Bundesliga",
@@ -686,10 +856,13 @@
         "published": "2026-08-20T08:08:59+00:00",
         "reporter": null,
         "reporter_tier": null,
+        "reporter_verified": false,
+        "is_interview": false,
         "real_madrid": false
       },
       {
         "title": "\"Vier ikonische Momente\": FC Bayern stellt neues Champions-League-Trikot vor",
+        "fact_brief": "관련 구단: Bayern · 보도: Kicker Bundesliga",
         "summary": "Anders als beim Vorgänger zeigt sich der FC Bayern beim neuen Champions-League-Trikot für die Saison 2026/27 farblich experimentierfreudiger. Auf dem violettfarbenen Grundton sind vier Momente der Vereinsgeschichte eingearbeitet.",
         "link": "https://www.kicker.de/vier-ikonische-momente-fc-bayern-stellt-neues-champions-league-trikot-vor-1245167/artikel#omrss",
         "source": "Kicker Bundesliga",
@@ -697,10 +870,13 @@
         "published": "2026-08-20T07:57:23+00:00",
         "reporter": null,
         "reporter_tier": null,
+        "reporter_verified": false,
+        "is_interview": false,
         "real_madrid": false
       },
       {
         "title": "Grifo über neue Saison: \"Wenn man es macht, dann richtig\"",
+        "fact_brief": "관련 구단: Freiburg · 형식: 인터뷰/1인칭 발언 포함 기사 · 보도: Kicker Bundesliga",
         "summary": "Vincenzo Grifo ist auch im gehobenen Fußballeralter noch einer der entscheidenden Spieler beim SC Freiburg. Im kicker-Interview spricht der Kapitän über seine Ambitionen für die kommende Saison.",
         "link": "https://www.kicker.de/grifo-ueber-neue-saison-wenn-man-es-macht-dann-richtig-1245074/video#omrss",
         "source": "Kicker Bundesliga",
@@ -708,10 +884,13 @@
         "published": "2026-08-19T16:23:13+00:00",
         "reporter": null,
         "reporter_tier": null,
+        "reporter_verified": false,
+        "is_interview": true,
         "real_madrid": false
       },
       {
         "title": "Stuttgart schließt das Kapitel Milosevic",
+        "fact_brief": "관련 구단: Vfb Stuttgart · 보도: Kicker Bundesliga",
         "summary": "Es hatte sich abgezeichnet, nun ist es offiziell: Jovan Milosevic verlässt den VfB Stuttgart und sucht sein Glück im Ausland. Der 20-Jährige wechselt zu Sporting Braga.",
         "link": "https://www.kicker.de/stuttgart-schliesst-das-kapitel-milosevic-1244478/artikel#omrss",
         "source": "Kicker Bundesliga",
@@ -719,10 +898,13 @@
         "published": "2026-08-19T16:20:54+00:00",
         "reporter": null,
         "reporter_tier": null,
+        "reporter_verified": false,
+        "is_interview": false,
         "real_madrid": false
       },
       {
         "title": "How Borussia Dortmund might line up in the 2026 Franz Beckenbauer Supercup against Bayern Munich",
+        "fact_brief": "관련 구단: Bayern, Borussia Dortmund · 보도: Bundesliga 공식",
         "summary": "Borussia Dortmund will hope to make an early-season statement against Bundesliga champions Bayern Munich when they welcome Vincent Kompany’s side to Signal Iduna Park in the Franz Beckenbauer Supercup this weekend, but who will Niko Kovač name in his starting XI?",
         "link": "https://www.bundesliga.com/en/bundesliga/news/borussia-dortmund-supercup-possible-line-up-bayern-bellingham-38698",
         "source": "Bundesliga 공식",
@@ -730,10 +912,13 @@
         "published": "2026-08-19T16:12:57+00:00",
         "reporter": null,
         "reporter_tier": null,
+        "reporter_verified": false,
+        "is_interview": false,
         "real_madrid": false
       },
       {
         "title": "Dreesen über Kane: \"Er hat auf jeder Bühne dieser Welt brilliert\"",
+        "fact_brief": "관련 구단: Bayern · 주제: 경기 결과/프리뷰 · 보도: Kicker Bundesliga",
         "summary": "Bayern-CEO Jan-Christian Dreesen geriet bei der Verleihung des Golden Shoe 2026 über Preisträger Harry Kane ins Schwärmen. Der Gewinn des Golden Shoe sei auch Werbung im Rennen um den Ballon d'Or.",
         "link": "https://www.kicker.de/dreesen-ueber-kane-er-hat-auf-jeder-buehne-dieser-welt-brilliert-1245068/video#omrss",
         "source": "Kicker Bundesliga",
@@ -741,10 +926,13 @@
         "published": "2026-08-19T15:54:57+00:00",
         "reporter": null,
         "reporter_tier": null,
+        "reporter_verified": false,
+        "is_interview": false,
         "real_madrid": false
       },
       {
         "title": "Eberl: Kane ist \"für mich ein Vorbild, wie ein Fußballer sein sollte\"",
+        "fact_brief": "관련 구단: Bayern · 보도: Kicker Bundesliga",
         "summary": "Max Eberl lobte Harry Kane beim Golden Shoe 2026 in höchsten Tönen. Der Bayern-Stürmer sei ein Vorbild.",
         "link": "https://www.kicker.de/eberl-kane-ist-fuer-mich-ein-vorbild-wie-ein-fussballer-sein-sollte-1245062/video#omrss",
         "source": "Kicker Bundesliga",
@@ -752,10 +940,13 @@
         "published": "2026-08-19T15:42:41+00:00",
         "reporter": null,
         "reporter_tier": null,
+        "reporter_verified": false,
+        "is_interview": false,
         "real_madrid": false
       },
       {
         "title": "\"Hätte mir kein anderer Klub geben können\": Füllkrug mit Liebeserklärung",
+        "fact_brief": "관련 구단: Werder Bremen · 보도: Kicker Bundesliga",
         "summary": "Niclas Füllkrug ist zurück bei Werder Bremen. Der Leih-Neuzugang gibt Einblicke, dass der Kontakt mit seinem Jugendverein eigentlich nie wirklich abgebrochen ist. Er betont auch die Wertschätzung, die er bereits jetzt spürt.",
         "link": "https://www.kicker.de/haette-mir-kein-anderer-klub-geben-koennen-fuellkrug-mit-liebeserklaerung-1245058/video#omrss",
         "source": "Kicker Bundesliga",
@@ -763,10 +954,13 @@
         "published": "2026-08-19T15:35:46+00:00",
         "reporter": null,
         "reporter_tier": null,
+        "reporter_verified": false,
+        "is_interview": false,
         "real_madrid": false
       },
       {
         "title": "How Bayern Munich might line up in the 2026 Franz Beckenbauer Supercup against Borussia Dortmund",
+        "fact_brief": "관련 구단: Bayern, Borussia Dortmund · 주제: 감독/코칭스태프 · 보도: Bundesliga 공식",
         "summary": "Bayern Munich will look to claim their first trophy of the 2026/27 season when they travel to Borussia Dortmund for the Franz Beckenbauer Supercup this weekend, but will head coach Vincent Kompany field a full-strength line-up at Signal Iduna Park?",
         "link": "https://www.bundesliga.com/en/bundesliga/news/bayern-munich-supercup-possible-line-up-kane-olise-saibari-38691",
         "source": "Bundesliga 공식",
@@ -774,21 +968,27 @@
         "published": "2026-08-19T15:25:32+00:00",
         "reporter": null,
         "reporter_tier": null,
+        "reporter_verified": false,
+        "is_interview": false,
         "real_madrid": false
       },
       {
         "title": "Football Daily | Sensible soccer: are football clubs actually signing the players they need?",
-        "summary": "Sign up now! Sign up now! Sign up now? Sign up now!In the 1941 RKO Radio Pictures/Mercury repertory theatre production Citizen Kane, Orson Welles essayed a man who began as a whirlwind of prolific energy, only to spectacularly fizzle out, to the extent that near the end, stubborn pride his only remaining fuel, he could barely move around or achieve anything of note at all. Football Daily isn’t sure how any of this relates to Charles Foster’s namesake Harry, or his recent Geopolitics World Cup campaign; nor are we sure what bit of Welles’ career Harry’s mooted move from Bayern Munich to Al-Hila",
+        "fact_brief": "관련 구단: Bayern · 주제: 이적 관련, 경기 결과/프리뷰 · 보도: Guardian Football",
+        "summary": "Sign up now! Sign up now! Sign up now? Sign up now!In the 1941 RKO Radio Pictures/Mercury repertory theatre production Citizen Kane, Orson Welles essayed a man who began as a whirlwind of prolific energy, only to spectacularly fizzle out, to the extent that near the end, stubborn pride his only remaining fuel, he could barely move around or achieve anything of note at all. Football Daily isn’t sur",
         "link": "https://www.theguardian.com/football/2026/aug/19/sensible-soccer-clubs-signing-players-transfers-football-daily",
         "source": "Guardian Football",
         "trust": "언론",
         "published": "2026-08-19T14:51:57+00:00",
         "reporter": null,
         "reporter_tier": null,
+        "reporter_verified": false,
+        "is_interview": false,
         "real_madrid": false
       },
       {
         "title": "Nico Elvedi leaves Borussia Mönchengladbach for Leeds United",
+        "fact_brief": "관련 구단: Leeds, Borussia Mönchengladbach · 보도: Bundesliga 공식",
         "summary": "Borussia Mönchengladbach's Swiss international defender Nico Elvedi is leaving the club after more than a decade and over 300 Bundesliga appearances.",
         "link": "https://www.bundesliga.com/en/bundesliga/news/nico-elvedi-leaves-borussia-monchengladbach-for-leeds-united-38632",
         "source": "Bundesliga 공식",
@@ -796,10 +996,13 @@
         "published": "2026-08-19T12:16:57+00:00",
         "reporter": null,
         "reporter_tier": null,
+        "reporter_verified": false,
+        "is_interview": false,
         "real_madrid": false
       },
       {
         "title": "Vincenzo Grifo extends contract with Freiburg",
+        "fact_brief": "관련 구단: Freiburg · 주제: 경기 결과/프리뷰, 계약 관련 · 보도: Bundesliga 공식",
         "summary": "Veteran Freiburg winger Vincenzo Grifo has extended his contract with the Black Forest outfit.",
         "link": "https://www.bundesliga.com/en/bundesliga/news/vincenzo-grifo-extends-freiburg-contract-europa-league-38693",
         "source": "Bundesliga 공식",
@@ -807,21 +1010,27 @@
         "published": "2026-08-19T11:25:38+00:00",
         "reporter": null,
         "reporter_tier": null,
+        "reporter_verified": false,
+        "is_interview": false,
         "real_madrid": false
       },
       {
         "title": "Football transfer rumours: Al-Hilal eye moves for Harry Kane and Ollie Watkins?",
-        "summary": "Today’s gossip is still on the beachIt seems the possibility of winning the Ballon d’Or is not the only thing the England captain, Harry Kane, has been talking about recently. Well, his representatives at least. It is thought Bayern Munich have been in talks with the Saudi Pro League’s Al-Hilal with Kane reportedly open to a future move.However, it is also understood the 33-year-old wants to remain at Bayern with discussions beginning on his new contract. The Bundesliga transfer window closes on 31 August so if a move east were to happen it would have to be done quickly. Continue reading...",
+        "fact_brief": "관련 구단: Bayern · 주제: 이적 관련, 경기 결과/프리뷰, 계약 관련 · 보도: Guardian Football",
+        "summary": "Today’s gossip is still on the beachIt seems the possibility of winning the Ballon d’Or is not the only thing the England captain, Harry Kane, has been talking about recently. Well, his representatives at least. It is thought Bayern Munich have been in talks with the Saudi Pro League’s Al-Hilal with Kane reportedly open to a future move.However, it is also understood the 33-year-old wants to remai",
         "link": "https://www.theguardian.com/football/2026/aug/19/football-transfer-rumours-al-hilal-eye-moves-for-harry-kane-and-ollie-watkins",
         "source": "Guardian Football",
         "trust": "언론",
         "published": "2026-08-19T08:41:10+00:00",
         "reporter": null,
         "reporter_tier": null,
+        "reporter_verified": false,
+        "is_interview": false,
         "real_madrid": false
       },
       {
         "title": "Jamal Musiala reveals neurological dysfunction after on-field incident in Bayern Munich friendly against Heidenheim",
+        "fact_brief": "관련 구단: Bayern · 주제: 경기 결과/프리뷰 · 보도: Bundesliga 공식",
         "summary": "Bayern Munich midfielder Jamal Musiala has given an update on his health, citing a neurological dysfunction following two on-field incidents in recent days.",
         "link": "https://www.bundesliga.com/en/bundesliga/news/jamal-musiala-bayern-munich-heidenheim-neurological-dysfunction-38683",
         "source": "Bundesliga 공식",
@@ -829,12 +1038,15 @@
         "published": "2026-08-18T18:06:42+00:00",
         "reporter": null,
         "reporter_tier": null,
+        "reporter_verified": false,
+        "is_interview": false,
         "real_madrid": false
       }
     ],
     "SerieA": [
       {
         "title": "Lazio walk away from Dieng transfer after failed medical",
+        "fact_brief": "관련 구단: Lazio · 주제: 이적 관련, 경기 결과/프리뷰 · 보도: Football Italia",
         "summary": "Free agent Bamba Dieng will not be joining Lazio this summer following issues that have...",
         "link": "https://football-italia.net/lazio-walk-away-from-dieng-transfer/",
         "source": "Football Italia",
@@ -842,10 +1054,13 @@
         "published": "2026-08-20T12:38:33+00:00",
         "reporter": null,
         "reporter_tier": null,
+        "reporter_verified": false,
+        "is_interview": false,
         "real_madrid": false
       },
       {
         "title": "Official: Bologna reward Orsolini with new contract until 2031",
+        "fact_brief": "관련 구단: Bologna · 주제: 경기 결과/프리뷰, 계약 관련 · 보도: Football Italia",
         "summary": "Bologna have rewarded winger and fan-favourite Riccardo Orsolini with a new, long-term contract extension that...",
         "link": "https://football-italia.net/bologna-reward-orsolini-with-new-contract/",
         "source": "Football Italia",
@@ -853,10 +1068,13 @@
         "published": "2026-08-20T12:08:19+00:00",
         "reporter": null,
         "reporter_tier": null,
+        "reporter_verified": false,
+        "is_interview": false,
         "real_madrid": false
       },
       {
         "title": "Done deal: Lazio seal Sutalo agreement with Ajax",
+        "fact_brief": "관련 구단: Lazio · 보도: Football Italia",
         "summary": "Outlets in Italy are reporting that Lazio have now finalised the final details of an...",
         "link": "https://football-italia.net/done-deal-lazio-seal-sutalo-ajax-agreement/",
         "source": "Football Italia",
@@ -864,10 +1082,13 @@
         "published": "2026-08-20T11:08:53+00:00",
         "reporter": null,
         "reporter_tier": null,
+        "reporter_verified": false,
+        "is_interview": false,
         "real_madrid": false
       },
       {
         "title": "LIVE Serie A 2026-27 Preview: Table predictions, best kits, coaches, top scorers & surprise team!",
+        "fact_brief": "주제: 감독/코칭스태프 · 보도: Football Italia",
         "summary": "The new Serie A season is almost upon us, and with it comes another year...",
         "link": "https://football-italia.net/serie-a-2026-27-preview-prediction-kits-live/",
         "source": "Football Italia",
@@ -875,32 +1096,27 @@
         "published": "2026-08-20T11:03:38+00:00",
         "reporter": null,
         "reporter_tier": null,
+        "reporter_verified": false,
+        "is_interview": false,
         "real_madrid": false
       },
       {
         "title": "Can a managerial merry-go-round in Serie A stop Inter’s dominance?",
-        "summary": "Milan, Napoli and Atalanta all have new head coaches as Italian football hopes to return to the spotlightAnd so, calcio’s “third apocalypse” has passed. A lot of Italians enjoyed the World Cup more than they expected. Without a team to cheer for, again, a country turned its attention to different sports. And found its athletes dominating them.On the day Spain defeated Argentina in New Jersey, Kimi Antonelli, the first Italian to win a Formula One race in 20 years, extended his lead in the standings by triumphing again at the Belgian Grand Prix. A week before that, Jannik Sinner defended his me",
+        "fact_brief": "관련 구단: Napoli, Atalanta · 주제: 경기 결과/프리뷰, 감독/코칭스태프 · 보도: Guardian Football",
+        "summary": "Milan, Napoli and Atalanta all have new head coaches as Italian football hopes to return to the spotlightAnd so, calcio’s “third apocalypse” has passed. A lot of Italians enjoyed the World Cup more than they expected. Without a team to cheer for, again, a country turned its attention to different sports. And found its athletes dominating them.On the day Spain defeated Argentina in New Jersey, Kimi",
         "link": "https://www.theguardian.com/football/2026/aug/20/serie-a-preview-inter-milan-juventus-como-roma-napoli",
         "source": "Guardian Football",
         "trust": "언론",
         "published": "2026-08-20T11:00:51+00:00",
         "reporter": null,
         "reporter_tier": null,
-        "real_madrid": false
-      },
-      {
-        "title": "Gabriel Jesus snubs opportunity to leave Arsenal as transfer preference becomes clear",
-        "summary": "Gabriel Jesus’ future at Arsenal remains uncertain, but a move to Napoli is now looking increasingly unlikely. The Brazilian forward has attracted interest from the Serie A champions as Arsenal consider reshaping their attacking options before the transfer deadline, yet Jesus is understood to favour remaining in England. Want more CaughtOffside coverage? Add us as […]\nThe post Gabriel Jesus snubs opportunity to leave Arsenal as transfer preference becomes clear appeared first on CaughtOffside.",
-        "link": "https://www.caughtoffside.com/2026/08/20/gabriel-jesus-snubs-opportunity-to-leave-arsenal/",
-        "source": "CaughtOffside (Romano)",
-        "trust": "기자",
-        "published": "2026-08-20T09:49:27+00:00",
-        "reporter": null,
-        "reporter_tier": null,
+        "reporter_verified": false,
+        "is_interview": false,
         "real_madrid": false
       },
       {
         "title": "Italy international Retegui on Juventus list of centre-forward targets",
+        "fact_brief": "관련 구단: Juventus · 보도: Football Italia",
         "summary": "Luciano Spalletti is still hoping to bring in another centre-forward before the close of the...",
         "link": "https://football-italia.net/retegui-on-juventus-list-of-striker-targets/",
         "source": "Football Italia",
@@ -908,21 +1124,27 @@
         "published": "2026-08-20T08:43:39+00:00",
         "reporter": null,
         "reporter_tier": null,
+        "reporter_verified": false,
+        "is_interview": false,
         "real_madrid": false
       },
       {
         "title": "La Real baja a Rupérez al Sanse y la llegada cedido de Héctor Fort coge fuerza",
-        "summary": "La plantilla de Matarazzo, con Odriozola lesionado, se queda con Aramburu como único lateral derecho, por lo que reforzará ese puesto y el catalán es claro candidato  Leer",
+        "fact_brief": "관련 구단: Como · 보도: Marca",
+        "summary": "La plantilla de Matarazzo, con Odriozola lesionado, se queda con Aramburu como único lateral derecho, por lo que reforzará ese puesto y el catalán es claro candidato Leer",
         "link": "https://www.marca.com/futbol/real-sociedad/2026/08/20/real-baja-ruperez-sanse-llegada-cedido-hector-fort-coge-fuerza.html",
         "source": "Marca",
         "trust": "언론",
         "published": "2026-08-20T08:11:06+00:00",
         "reporter": null,
         "reporter_tier": null,
+        "reporter_verified": false,
+        "is_interview": false,
         "real_madrid": false
       },
       {
         "title": "Why Kolo Muani’s return might be key for Juventus in 2026-27",
+        "fact_brief": "관련 구단: Juventus · 보도: Football Italia",
         "summary": "Randal Kolo Muani has returned to Juventus on a permanent deal and it’s a move...",
         "link": "https://football-italia.net/why-kolo-muanis-return-key-juventus-in-2026-27/",
         "source": "Football Italia",
@@ -930,67 +1152,85 @@
         "published": "2026-08-20T07:59:53+00:00",
         "reporter": null,
         "reporter_tier": null,
-        "real_madrid": false
-      },
-      {
-        "title": "Sarri diplomatic on Atalanta match with Hapoel Tel-Aviv: ‘Ask me in private’",
-        "summary": "Maurizio Sarri tries to prepare Atalanta for a tense Conference League play-off against Hapoel Tel-Aviv,...",
-        "link": "https://football-italia.net/sarri-diplomatic-on-atalanta-hapoel-tel-aviv/",
-        "source": "Football Italia",
-        "trust": "언론",
-        "published": "2026-08-19T20:06:38+00:00",
-        "reporter": null,
-        "reporter_tier": null,
+        "reporter_verified": false,
+        "is_interview": false,
         "real_madrid": false
       },
       {
         "title": "Tsitaishvili da sus primeras declaraciones como rayista: \"Este equipo es muy familiar\"",
-        "summary": "El nuevo georgiano dio sus primeras palabras como jugador del Rayo Vallecano  Leer",
+        "fact_brief": "관련 구단: Como · 보도: Marca",
+        "summary": "El nuevo georgiano dio sus primeras palabras como jugador del Rayo Vallecano Leer",
         "link": "https://www.marca.com/futbol/rayo/2026/08/19/tsitaishvili-da-primeras-declaraciones-rayista-equipo-familiar.html",
         "source": "Marca",
         "trust": "언론",
         "published": "2026-08-19T17:57:47+00:00",
         "reporter": null,
         "reporter_tier": null,
+        "reporter_verified": false,
+        "is_interview": false,
         "real_madrid": false
       },
       {
         "title": "Marc Bernal: \"Rodri es un ejemplo tanto dentro como fuera del campo\"",
-        "summary": "El canterano se deshizo en elogios con la llegada del campeón del mundo  Leer",
+        "fact_brief": "관련 구단: Como · 보도: Marca",
+        "summary": "El canterano se deshizo en elogios con la llegada del campeón del mundo Leer",
         "link": "https://www.marca.com/futbol/barcelona/2026/08/19/marc-bernal-rodri-ejemplo-tanto-fuera-campo.html",
         "source": "Marca",
         "trust": "언론",
         "published": "2026-08-19T09:27:03+00:00",
         "reporter": null,
         "reporter_tier": null,
+        "reporter_verified": false,
+        "is_interview": false,
         "real_madrid": false
       }
     ],
     "Ligue1": [
       {
-        "title": "À deux jours de la reprise de la Ligue 1, Dino Topmöller évoque les ambitions de Lens pour la saison à venir : « Si tu veux faire quelque chose en Championnat, il faut battre le PSG »",
-        "summary": "À deux jours de la reprise du RC Lens en Championnat, samedi face à Auxerre, Dino Topmöller, le nouvel entraîneur du RC Lens, est revenu sur le succès de son équipe au Trophée des Champions, dimanche face à Paris. Avec toujours plus d'exigence pour réussir une belle saison.",
+        "title": "Will Still revient sur son passage à Lens : « J'ai donné le meilleur de moi-même »",
+        "fact_brief": "관련 구단: Lens, Auxerre · 주제: 감독/코칭스태프 · 보도: L'Équipe Football",
+        "summary": "À l'occasion de la 1re journée de Ligue 1, samedi (17 h 15), Will Still se déplace avec son nouveau club, l'AJ Auxerre, à Lens, qu'il a entraîné durant la saison 2024-2025. En conférence de presse, le coach anglo-belge est revenu sur cette expérience.",
+        "link": "https://www.lequipe.fr/Football/Actualites/Will-still-revient-sur-son-passage-a-lens-j-ai-donne-le-meilleur-de-moi-meme/1712302#at_medium=RSS_feeds",
+        "source": "L'Équipe Football",
+        "trust": "언론",
+        "published": "2026-08-20T13:45:02+00:00",
+        "reporter": null,
+        "reporter_tier": null,
+        "reporter_verified": false,
+        "is_interview": false,
+        "real_madrid": false
+      },
+      {
+        "title": "À deux jours de la reprise de la Ligue 1, Dino Toppmöller évoque les ambitions de Lens pour la saison à venir : « Si tu veux faire quelque chose en Championnat, il faut battre le PSG »",
+        "fact_brief": "관련 구단: Psg, Lens, Auxerre · 보도: L'Équipe Football",
+        "summary": "À deux jours de la reprise du RC Lens en Championnat, samedi face à Auxerre (17h15), Dino Toppmöller, le nouvel entraîneur du RC Lens, évoque la saison à venir, l'effectif et ses ambitions, avec toujours plus d'exigence.",
         "link": "https://www.lequipe.fr/Football/Actualites/A-deux-jours-de-la-reprise-de-la-ligue-1-dino-topmoller-evoque-les-ambitions-de-lens-pour-la-saison-a-venir-si-tu-veux-faire-quelque-chose-en-championnat-il-faut-battre-le-psg/1712299#at_medium=RSS_feeds",
         "source": "L'Équipe Football",
         "trust": "언론",
         "published": "2026-08-20T13:38:48+00:00",
         "reporter": null,
         "reporter_tier": null,
+        "reporter_verified": false,
+        "is_interview": false,
         "real_madrid": false
       },
       {
         "title": "PSG’s Ligue 1 home opener moved to Rennes after pitch damaged by heat",
-        "summary": "Sunday’s match against Rennes switched at short noticeParc des Princes surface poses risk to ‘safety of players’Paris Saint-Germain’s Ligue 1 opener against Rennes has been relocated at short notice, because of damage to their pitch by the extreme heat. Sunday’s match will now take place at Rennes’ Roazhon Park, the LFP (Ligue de Football Professionel) competitions committee announced on Wednesday.PSG said the pitch at Parc des Princes has deteriorated so much “that the current conditions did not allow the match to be held under satisfactory circumstances, particularly with regard to the safet",
+        "fact_brief": "관련 구단: Psg, Paris Saint-Germain, Rennes · 주제: 경기 결과/프리뷰 · 보도: Guardian Football",
+        "summary": "Sunday’s match against Rennes switched at short noticeParc des Princes surface poses risk to ‘safety of players’Paris Saint-Germain’s Ligue 1 opener against Rennes has been relocated at short notice, because of damage to their pitch by the extreme heat. Sunday’s match will now take place at Rennes’ Roazhon Park, the LFP (Ligue de Football Professionel) competitions committee announced on Wednesday",
         "link": "https://www.theguardian.com/football/2026/aug/20/psgs-ligue-1-home-opener-moved-to-rennes-after-paris-pitch-damaged-by-heat",
         "source": "Guardian Football",
         "trust": "언론",
         "published": "2026-08-20T12:41:01+00:00",
         "reporter": null,
         "reporter_tier": null,
+        "reporter_verified": false,
+        "is_interview": false,
         "real_madrid": false
       },
       {
         "title": "Rennes pourra compter sur son kop contre le PSG",
+        "fact_brief": "관련 구단: Psg, Rennes · 주제: 경기 결과/프리뷰 · 보도: L'Équipe Football",
         "summary": "La tribune animée par le Roazhon Celtic kop devait être fermée pour le premier match de la saison à domicile, contre Le Mans (2e journée de L1, le 30 août). Malgré l'inversion du match de la première journée de Championnat PSG-Rennes, qui aura lieu dimanche au Roazhon Park, ce sera bien pour la rencontre face au Mans que la sanction s'appliquera.",
         "link": "https://www.lequipe.fr/Football/Actualites/Rennes-pourra-compter-sur-son-kop-contre-le-psg/1712283#at_medium=RSS_feeds",
         "source": "L'Équipe Football",
@@ -998,10 +1238,13 @@
         "published": "2026-08-20T12:28:05+00:00",
         "reporter": null,
         "reporter_tier": null,
+        "reporter_verified": false,
+        "is_interview": false,
         "real_madrid": false
       },
       {
         "title": "Henry à Monaco, Ravanelli à Ajaccio, Guy Roux à Lens... Tous les épisodes de notre série d'été",
+        "fact_brief": "관련 구단: Monaco, Lens · 보도: L'Équipe Football",
         "summary": "",
         "link": "https://www.lequipe.fr/serie/mariages-rates-en-ligue-1/#at_medium=RSS_feeds",
         "source": "L'Équipe Football",
@@ -1009,10 +1252,13 @@
         "published": "2026-08-20T12:16:00+00:00",
         "reporter": null,
         "reporter_tier": null,
+        "reporter_verified": false,
+        "is_interview": false,
         "real_madrid": false
       },
       {
         "title": "Auxerre sans Assane Diousse, gravement blessé au genou, Théo Bair, ni Rémy Labeau-Lascary à Lens",
+        "fact_brief": "관련 구단: Lens, Auxerre · 보도: L'Équipe Football",
         "summary": "Pour son déplacement à Lens (1re journée de Ligue 1, samedi, 17h15), l'AJA sera privée du milieu Assane Diousse, victime d'une rupture du ligament croisé antérieur d'un genou, ainsi que des attaquants Théo Bair (suspendu) et Rémy Labeau-Lascary (accord avec le RCL, qui l'a prêté).",
         "link": "https://www.lequipe.fr/Football/Actualites/Auxerre-sans-assane-diousse-gravement-blesse-au-genou-theo-bair-ni-remy-labeau-lascary-a-lens/1712278#at_medium=RSS_feeds",
         "source": "L'Équipe Football",
@@ -1020,10 +1266,13 @@
         "published": "2026-08-20T11:59:38+00:00",
         "reporter": null,
         "reporter_tier": null,
+        "reporter_verified": false,
+        "is_interview": false,
         "real_madrid": false
       },
       {
         "title": "Les joueurs de Nice espèrent le retour d'Elye Wahi d'ici à la fin du mercato : « On serait tous contents »",
+        "fact_brief": "관련 구단: Nice · 보도: L'Équipe Football",
         "summary": "À l'image de Jonathan Clauss, les joueurs de Nice espèrent un retour d'Elye Wahi dans le vestiaire des Aiglons. Il reste une dizaine de jours pour conclure un deal avant la fin du mercato estival, fixée au 1er septembre.",
         "link": "https://www.lequipe.fr/Football/Actualites/Les-joueurs-de-nice-esperent-le-retour-d-elye-wahi-d-ici-la-fin-du-mercato-on-serait-tous-contents/1712277#at_medium=RSS_feeds",
         "source": "L'Équipe Football",
@@ -1031,10 +1280,13 @@
         "published": "2026-08-20T11:56:09+00:00",
         "reporter": null,
         "reporter_tier": null,
+        "reporter_verified": false,
+        "is_interview": false,
         "real_madrid": false
       },
       {
         "title": "« Il est apprécié, il peut être un moteur » : Jonathan Clauss désigné capitaine de Nice",
+        "fact_brief": "관련 구단: Nice · 보도: L'Équipe Football",
         "summary": "Olivier Pantaloni a annoncé ce jeudi que le latéral droit, international français, serait capitaine du Gym, cette saison.",
         "link": "https://www.lequipe.fr/Football/Actualites/-il-est-apprecie-il-peut-etre-un-moteur-jonathan-clauss-designe-capitaine-de-nice/1712275#at_medium=RSS_feeds",
         "source": "L'Équipe Football",
@@ -1042,10 +1294,13 @@
         "published": "2026-08-20T11:39:10+00:00",
         "reporter": null,
         "reporter_tier": null,
+        "reporter_verified": false,
+        "is_interview": false,
         "real_madrid": false
       },
       {
         "title": "Après l'inversion du match aller, le PSG veut jouer le retour face au Stade Rennais au Parc des Princes",
+        "fact_brief": "관련 구단: Psg, Paris Saint-Germain, Rennes · 주제: 경기 결과/프리뷰 · 보도: L'Équipe Football",
         "summary": "Le Paris Saint-Germain plaide des « circonstances exceptionnelles », prévues dans le règlement de la LFP, pour disputer son match retour face à Rennes à domicile, après l'inversion de la rencontre de la première journée, dimanche soir.",
         "link": "https://www.lequipe.fr/Football/Actualites/Apres-l-inversion-du-match-aller-le-psg-veut-jouer-le-retour-face-au-stade-rennais-au-parc-des-princes/1712268#at_medium=RSS_feeds",
         "source": "L'Équipe Football",
@@ -1053,10 +1308,13 @@
         "published": "2026-08-20T10:49:25+00:00",
         "reporter": null,
         "reporter_tier": null,
+        "reporter_verified": false,
+        "is_interview": false,
         "real_madrid": false
       },
       {
         "title": "Monaco, une attaque en vrac pour lancer sa saison",
+        "fact_brief": "관련 구단: Monaco · 보도: L'Équipe Football",
         "summary": "",
         "link": "https://www.lequipe.fr/Football/Article/Privee-de-nombreux-attaquants-l-as-monaco-attaque-sa-saison-en-pologne-en-ligue-conference-sans-certitude/1712205#at_medium=RSS_feeds",
         "source": "L'Équipe Football",
@@ -1064,10 +1322,13 @@
         "published": "2026-08-20T10:43:00+00:00",
         "reporter": null,
         "reporter_tier": null,
+        "reporter_verified": false,
+        "is_interview": false,
         "real_madrid": false
       },
       {
         "title": "Après l'inversion de PSG-Rennes, la billetterie du Roazhon Park ouvre ce jeudi à moins de trois jours du match",
+        "fact_brief": "관련 구단: Psg, Rennes · 주제: 경기 결과/프리뷰 · 보도: L'Équipe Football",
         "summary": "La pelouse du Parc des Princes ne permettant pas la réception du Stade Rennais à Paris pour le compte de la 1re journée de L1, le match doit donc se jouer en Bretagne. La billetterie ouvre ce jeudi, à trois jours de la rencontre programmée dimanche à 20h45.",
         "link": "https://www.lequipe.fr/Football/Actualites/Apres-l-inversion-de-psg-rennes-la-billetterie-du-roazhon-park-ouvre-ce-jeudi-a-moins-de-trois-jours-du-match/1712260#at_medium=RSS_feeds",
         "source": "L'Équipe Football",
@@ -1075,10 +1336,13 @@
         "published": "2026-08-20T09:42:21+00:00",
         "reporter": null,
         "reporter_tier": null,
+        "reporter_verified": false,
+        "is_interview": false,
         "real_madrid": false
       },
       {
         "title": "Un hommage sera rendu à Éric Roy avant le coup d'envoi de Nice-Lorient samedi",
+        "fact_brief": "관련 구단: Nice · 보도: L'Équipe Football",
         "summary": "Un hommage sera rendu avant Nice-Lorient à l'ancien joueur et entraîneur du Gym Éric Roy, ce samedi. Le technicien s'est éteint en juin à 58 ans.",
         "link": "https://www.lequipe.fr/Football/Actualites/Un-hommage-sera-rendu-a-eric-roy-avant-le-coup-d-envoi-de-nice-lorient-samedi/1712259#at_medium=RSS_feeds",
         "source": "L'Équipe Football",
@@ -1086,10 +1350,13 @@
         "published": "2026-08-20T09:29:10+00:00",
         "reporter": null,
         "reporter_tier": null,
+        "reporter_verified": false,
+        "is_interview": false,
         "real_madrid": false
       },
       {
         "title": "PSG-Rennes, les raisons d'une inversion de dernière minute",
+        "fact_brief": "관련 구단: Psg, Rennes · 보도: L'Équipe Football",
         "summary": "",
         "link": "https://www.lequipe.fr/Football/Article/Pourquoi-psg-rennes-se-jouera-finalement-au-roazhon-park-et-n-a-ete-inverse-que-quatre-jours-avant-sa-tenue/1712210#at_medium=RSS_feeds",
         "source": "L'Équipe Football",
@@ -1097,10 +1364,13 @@
         "published": "2026-08-20T08:46:00+00:00",
         "reporter": null,
         "reporter_tier": null,
+        "reporter_verified": false,
+        "is_interview": false,
         "real_madrid": false
       },
       {
         "title": "Derrière le PSG, pas de requins mais beaucoup d'aspirants dauphins",
+        "fact_brief": "관련 구단: Psg · 보도: L'Équipe Football",
         "summary": "",
         "link": "https://www.lequipe.fr/Football/Article/La-ligue-1-a-l-ombre-d-un-geant-qui-saura-se-mettre-en-valeur-derriere-le-paris-sg-une-nouvelle-fois-grandissime-favori-du-championnat/1712165#at_medium=RSS_feeds",
         "source": "L'Équipe Football",
@@ -1108,10 +1378,13 @@
         "published": "2026-08-20T08:12:00+00:00",
         "reporter": null,
         "reporter_tier": null,
+        "reporter_verified": false,
+        "is_interview": false,
         "real_madrid": false
       },
       {
         "title": "« Au pied du parlement, ça fait vraiment carte postale », après trois jours de compétition, l'Euro de Cécifoot a conquis les Strasbourgeois",
+        "fact_brief": "관련 구단: Strasbourg · 보도: L'Équipe Football",
         "summary": "Installé à deux pas du Parlement Européen, à Strasbourg, le stade où se déroule l'Euro de Cécifoot, depuis lundi et jusqu'à dimanche, vibre au rythme des performances de l'équipe de France, championne paralympique, tenante du titre, et qui affrontera l'Italie, ce vendredi soir (21 heures), en demi-finales.",
         "link": "https://www.lequipe.fr/Football/Actualites/-au-pied-du-parlement-ca-fait-vraiment-carte-postale-apres-trois-jours-de-competition-l-euro-de-cecifoot-a-conquis-les-strasbourgeois/1712250#at_medium=RSS_feeds",
         "source": "L'Équipe Football",
@@ -1119,10 +1392,13 @@
         "published": "2026-08-20T07:57:42+00:00",
         "reporter": null,
         "reporter_tier": null,
+        "reporter_verified": false,
+        "is_interview": false,
         "real_madrid": false
       },
       {
         "title": "Damaged pitch forces PSG to switch season opener",
+        "fact_brief": "관련 구단: Psg, Rennes · 보도: BBC Sport",
         "summary": "Paris St-Germain's opening Ligue 1 game will now be played in Rennes after hot weather \"severely damaged\" the Parc des Princes pitch.",
         "link": "https://www.bbc.co.uk/sport/football/articles/cx2dwdxqylwo?at_medium=RSS&at_campaign=rss",
         "source": "BBC Sport",
@@ -1130,10 +1406,13 @@
         "published": "2026-08-20T07:48:29+00:00",
         "reporter": null,
         "reporter_tier": null,
+        "reporter_verified": false,
+        "is_interview": false,
         "real_madrid": false
       },
       {
         "title": "Et si Rennes recevait deux fois le PSG cette saison en Ligue 1 ? Ce que dit le règlement",
+        "fact_brief": "관련 구단: Psg, Rennes · 주제: 경기 결과/프리뷰 · 보도: L'Équipe Football",
         "summary": "Après l'inversion du match de la 1re journée entre le PSG et Rennes, finalement disputé en Bretagne à cause de l'état de la pelouse du Parc des Princes, le match retour prévu le 6 mars 2027 sera-t-il lui aussi inversé ? Ce n'est pas dit.",
         "link": "https://www.lequipe.fr/Football/Actualites/Et-si-rennes-recevait-deux-fois-le-psg-cette-saison-en-ligue-1-ce-que-dit-le-reglement/1712244#at_medium=RSS_feeds",
         "source": "L'Équipe Football",
@@ -1141,10 +1420,13 @@
         "published": "2026-08-20T07:30:17+00:00",
         "reporter": null,
         "reporter_tier": null,
+        "reporter_verified": false,
+        "is_interview": false,
         "real_madrid": false
       },
       {
         "title": "Guy Roux à Lens, le gros coup de fatigue: «Je n'ai connu la région que sous le soleil»",
+        "fact_brief": "관련 구단: Lens · 보도: L'Équipe Football",
         "summary": "",
         "link": "https://www.lequipe.fr/Football/Article/Grand-recit-guy-roux-a-lens-le-coup-de-fatigue-j-en-garde-un-souvenir-emu/1711850#at_medium=RSS_feeds",
         "source": "L'Équipe Football",
@@ -1152,10 +1434,13 @@
         "published": "2026-08-20T06:43:00+00:00",
         "reporter": null,
         "reporter_tier": null,
+        "reporter_verified": false,
+        "is_interview": false,
         "real_madrid": false
       },
       {
         "title": "Edwin Pindi, président exécutif de Troyes à l'aube du retour en Ligue 1 : « L'apport du City Football Group est extraordinaire, financièrement et humainement »",
+        "fact_brief": "주제: 경기 결과/프리뷰 · 보도: L'Équipe Football",
         "summary": "À l'aube du retour de Troyes en Ligue 1, le président exécutif, Edwin Pindi, a fait le point pour « L'Équipe » sur les chantiers et ambitions de l'Estac avant la première à domicile, samedi soir contre le Paris FC (20 h 45, en direct sur Ligue 1+, disponible sur L'Équipe).",
         "link": "https://www.lequipe.fr/Football/Article/Edwin-pindi-president-executif-de-troyes-a-l-aube-du-retour-en-ligue-1-l-apport-du-city-football-group-est-extraordinaire-financierement-et-humainement/1712179#at_medium=RSS_feeds",
         "source": "L'Équipe Football",
@@ -1163,10 +1448,13 @@
         "published": "2026-08-20T06:05:00+00:00",
         "reporter": null,
         "reporter_tier": null,
+        "reporter_verified": false,
+        "is_interview": false,
         "real_madrid": false
       },
       {
         "title": "À quoi ressemble le Gornik Zabrze, le club polonais détenu par Lukas Podolski que Monaco affronte en Ligue Conférence",
+        "fact_brief": "관련 구단: Monaco · 보도: L'Équipe Football",
         "summary": "Si le Gornik Zabrze, adversaire de Monaco en barrages aller de Ligue Conférence ce jeudi (20 heures), n'est pas renommé, il conviendra de ne pas le prendre à la légère. Le « Saint-Étienne polonais », dirigé par Lukas Podolski, est en pleine renaissance.",
         "link": "https://www.lequipe.fr/Football/Actualites/A-quoi-ressemble-le-gornik-zabrze-le-club-polonais-detenu-par-lukas-podolski-que-monaco-affronte-en-ligue-conference/1711997#at_medium=RSS_feeds",
         "source": "L'Équipe Football",
@@ -1174,10 +1462,13 @@
         "published": "2026-08-20T05:55:00+00:00",
         "reporter": null,
         "reporter_tier": null,
+        "reporter_verified": false,
+        "is_interview": false,
         "real_madrid": false
       },
       {
         "title": "À quelle heure et sur quelle chaîne voir Monaco - Gornik Zabrze, match aller des barrages de la Ligue Conférence ?",
+        "fact_brief": "관련 구단: Monaco · 주제: 경기 결과/프리뷰 · 보도: L'Équipe Football",
         "summary": "L'AS Monaco se déplace sur la pelouse du Gornik Zabrze ce jeudi, pour disputer le match aller des barrages qualificatifs de la Ligue Conférence. Toutes les informations de diffusion sont à retrouver ici.",
         "link": "https://www.lequipe.fr/Football/Actualites/A-quelle-heure-et-sur-quelle-chaine-voir-monaco-gornik-zabrze-le-match-aller-des-barrages-de-la-ligue-conference/1711728#at_medium=RSS_feeds",
         "source": "L'Équipe Football",
@@ -1185,10 +1476,13 @@
         "published": "2026-08-20T05:05:00+00:00",
         "reporter": null,
         "reporter_tier": null,
+        "reporter_verified": false,
+        "is_interview": false,
         "real_madrid": false
       },
       {
         "title": "Sacré en Ligue 1 la saison dernière en s'appuyant surtout sur ses remplaçants, le PSG possède deux équipes : une pour le Championnat et une pour la Ligue des champions",
+        "fact_brief": "관련 구단: Psg · 보도: L'Équipe Football",
         "summary": "Sous l'effet des blessures, d'abord, puis de la rotation instaurée par Luis Enrique, le PSG a dominé la Ligue 1 avec une équipe très différente de celle qui a conquis l'Europe. Paris a de la marge, et peut jouer avec.",
         "link": "https://www.lequipe.fr/Football/Article/Sacre-en-ligue-1-la-saison-derniere-en-s-appuyant-surtout-sur-ses-remplacants-le-psg-possede-deux-equipes-une-pour-le-championnat-et-une-pour-la-ligue-des-champions/1712096#at_medium=RSS_feeds",
         "source": "L'Équipe Football",
@@ -1196,32 +1490,13 @@
         "published": "2026-08-20T04:25:00+00:00",
         "reporter": null,
         "reporter_tier": null,
-        "real_madrid": false
-      },
-      {
-        "title": "Barcola et Mbaye mis de côté, arrivée de Torres, Godts et Akliouche : l'attaque du PSG change de visage cette saison",
-        "summary": "En attendant les possibles départs de Bradley Barcola et d'Ibrahim Mbaye, l'attaque du PSG n'aura pas le même visage cette saison, avec une concurrence encore plus accrue et des joueurs loin d'être assurés d'une place de titulaire.",
-        "link": "https://www.lequipe.fr/Football/Article/Barcola-et-mbaye-mis-de-cote-arrivee-de-torres-godts-et-akliouche-l-attaque-du-psg-change-de-visage-cette-saison/1711918#at_medium=RSS_feeds",
-        "source": "L'Équipe Football",
-        "trust": "언론",
-        "published": "2026-08-20T03:57:00+00:00",
-        "reporter": null,
-        "reporter_tier": null,
-        "real_madrid": false
-      },
-      {
-        "title": "Privée de nombreux éléments, l'AS Monaco lance sa saison en Pologne et en Ligue Conférence avec une attaque en vrac",
-        "summary": "Privée d'Ansu Fati, de Matthis Abline, de Folarin Balogun et d'Alexandre Golovine, l'AS Monaco entame sa saison, jeudi soir, sur la pelouse des Polonais du Gornik Zabrze, en barrages aller de la Ligue Conférence (20 heures), sans la moindre certitude sur son animation offensive.",
-        "link": "https://www.lequipe.fr/Football/Article/Privee-de-nombreux-attaquants-l-as-monaco-attaque-sa-saison-en-pologne-en-ligue-conference-sans-certitude/1712205#at_medium=RSS_feeds",
-        "source": "L'Équipe Football",
-        "trust": "언론",
-        "published": "2026-08-20T03:30:00+00:00",
-        "reporter": null,
-        "reporter_tier": null,
+        "reporter_verified": false,
+        "is_interview": false,
         "real_madrid": false
       },
       {
         "title": "Fenerbahce & Lyon play out entertaining first-leg draw",
+        "fact_brief": "관련 구단: Lyon · 주제: 경기 결과/프리뷰 · 보도: BBC Sport",
         "summary": "Fenerbahce and Lyon play out an entertaining 1-1 draw in their Uefa Champions League play-off first leg.",
         "link": "https://www.bbc.co.uk/sport/football/videos/cwyqzk5yk41o?at_medium=RSS&at_campaign=rss",
         "source": "BBC Sport",
@@ -1229,10 +1504,13 @@
         "published": "2026-08-19T21:05:51+00:00",
         "reporter": null,
         "reporter_tier": null,
+        "reporter_verified": false,
+        "is_interview": false,
         "real_madrid": false
       },
       {
         "title": "Official: Moreira joins Milan from RC Strasbourg for circa €65m including bonus",
+        "fact_brief": "관련 구단: Strasbourg · 주제: 계약 관련 · 보도: Football Italia",
         "summary": "Belgium international Diego Moreira has joined Milan from RC Strasbourg with a contract to 2031,...",
         "link": "https://football-italia.net/official-moreira-joins-milan-rc-strasbourg/",
         "source": "Football Italia",
@@ -1240,7 +1518,126 @@
         "published": "2026-08-19T20:16:06+00:00",
         "reporter": null,
         "reporter_tier": null,
+        "reporter_verified": false,
+        "is_interview": false,
         "real_madrid": false
+      }
+    ]
+  },
+  "reporter_profiles": {
+    "EPL": [
+      {
+        "name": "David Ornstein",
+        "role": "메인 기자",
+        "outlet": "The Athletic",
+        "x": "https://x.com/David_Ornstein",
+        "profile": "https://theathletic.com/staff/david-ornstein/"
+      },
+      {
+        "name": "Kaveh Solhekol",
+        "role": "보강 기자",
+        "outlet": "Sky Sports",
+        "x": "https://x.com/SkyKaveh",
+        "profile": "https://www.skysports.com/football/news"
+      },
+      {
+        "name": "Phil McNulty",
+        "role": "보강 기자",
+        "outlet": "BBC Sport",
+        "x": "https://x.com/philmcnulty",
+        "profile": "https://www.bbc.co.uk/sport/football"
+      }
+    ],
+    "LaLiga": [
+      {
+        "name": "Sid Lowe",
+        "role": "메인 기자",
+        "outlet": "The Guardian / ESPN",
+        "x": "https://x.com/sidlowe",
+        "profile": "https://www.theguardian.com/football/sid-lowe"
+      },
+      {
+        "name": "Dermot Corrigan",
+        "role": "보강 기자",
+        "outlet": "The Athletic",
+        "x": "https://x.com/dermotmcorrigan",
+        "profile": "https://theathletic.com/staff/dermot-corrigan/"
+      },
+      {
+        "name": "Guillem Balague",
+        "role": "보강 기자",
+        "outlet": "독립 / BBC 기고",
+        "x": "https://x.com/GuillemBalague",
+        "profile": "https://www.guillembalague.com/"
+      }
+    ],
+    "SerieA": [
+      {
+        "name": "Paolo Bandini",
+        "role": "메인 기자",
+        "outlet": "The Guardian",
+        "x": "https://x.com/Paolo_Bandini",
+        "profile": "https://www.theguardian.com/football/paolobandini"
+      },
+      {
+        "name": "Fabrizio Romano",
+        "role": "보강 기자",
+        "outlet": "독립(이적시장 전문)",
+        "x": "https://x.com/FabrizioRomano",
+        "profile": "https://www.fabrizioromano.com/"
+      },
+      {
+        "name": "Matteo Bonetti",
+        "role": "보강 기자",
+        "outlet": "Football Italia 등",
+        "x": "https://x.com/mattbonetti",
+        "profile": null
+      }
+    ],
+    "Bundesliga": [
+      {
+        "name": "Raphael Honigstein",
+        "role": "메인 기자",
+        "outlet": "The Athletic",
+        "x": "https://x.com/honigstein",
+        "profile": "https://theathletic.com/staff/raphael-honigstein/"
+      },
+      {
+        "name": "Jonathan Harding",
+        "role": "보강 기자",
+        "outlet": "독립(분데스리가 전문)",
+        "x": "https://x.com/JHardingFF",
+        "profile": null
+      },
+      {
+        "name": "Nick Ames",
+        "role": "보강 기자",
+        "outlet": "The Guardian",
+        "x": "https://x.com/NicholasAmes",
+        "profile": "https://www.theguardian.com/football/nick-ames"
+      }
+    ],
+    "Ligue1": [
+      {
+        "name": "Jonathan Johnson",
+        "role": "메인 기자",
+        "outlet": "ESPN / Get French Football News",
+        "x": "https://x.com/JonathanJohnsn",
+        "profile": null
+      },
+      {
+        "name": "Julien Laurens",
+        "role": "보강 기자",
+        "outlet": "ESPN / L'Équipe",
+        "x": "https://x.com/LaurensJulien",
+        "profile": null
+      },
+      {
+        "name": "Tom Williams",
+        "role": "보강 기자",
+        "outlet": "Get French Football News",
+        "x": "https://x.com/tomwfootball",
+        "profile": null
       }
     ]
   },
