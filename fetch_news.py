@@ -20,6 +20,25 @@ import re
 import time
 from datetime import datetime, timezone, timedelta
 from html import unescape
+from deep_translator import GoogleTranslator
+
+_TRANSLATE_CACHE = {}
+
+def translate_ko(text):
+    """짧은 제목/리드문(공개 RSS 발췌분)을 한국어로 번역. 실패 시 원문 유지.
+    번역 대상은 언론사가 RSS로 공개 배포하는 짧은 리드문이며, 기사 본문 전체가 아님."""
+    text = (text or "").strip()
+    if not text:
+        return text
+    if text in _TRANSLATE_CACHE:
+        return _TRANSLATE_CACHE[text]
+    try:
+        result = GoogleTranslator(source="auto", target="ko").translate(text[:4500])
+        result = result or text
+    except Exception:
+        result = text
+    _TRANSLATE_CACHE[text] = result
+    return result
 
 # ---- 수집 소스: 공식 리그/구단 + 공신력 있는 언론사 RSS ----
 # trust: "공식"=리그/구단 공식, "언론"=일반 매체(개별 필자 특정 불가 다수),
@@ -250,9 +269,10 @@ def main():
                 fact_brief = build_fact_brief(title, summary, src["name"], league)
 
                 item = {
-                    "title": title,
+                    "title": translate_ko(title),
+                    "title_original": title,
                     "fact_brief": fact_brief,
-                    "summary": summary[:400],
+                    "summary": translate_ko(summary[:400]),
                     "link": link,
                     "source": src["name"],
                     "trust": src["trust"],
