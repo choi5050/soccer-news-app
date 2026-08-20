@@ -22,8 +22,10 @@
   main{max-width:900px;margin:0 auto;padding:0 16px 60px;}
   .grid{display:flex;flex-direction:column;gap:12px;}
   .card{background:var(--card);border:1px solid var(--border);border-radius:14px;padding:16px 18px;
-        transition:.15s;text-decoration:none;color:inherit;display:block;}
-  .card:hover{background:var(--card-hover);border-color:var(--accent);transform:translateY(-1px);}
+        transition:.15s;color:inherit;display:block;}
+  .card:hover{border-color:var(--accent);}
+  .readmore{display:inline-block;margin-top:10px;font-size:12px;color:var(--accent);text-decoration:none;font-weight:700;}
+  .readmore:hover{text-decoration:underline;}
   .card-top{display:flex;justify-content:flex-start;align-items:center;margin-bottom:6px;gap:8px;flex-wrap:wrap;}
   .source{font-size:12px;font-weight:700;color:var(--accent);}
   .badge{font-size:10px;background:rgba(34,197,94,.15);color:var(--accent2);padding:2px 8px;border-radius:999px;font-weight:700;}
@@ -32,7 +34,7 @@
   .badge-rm{font-size:10px;background:rgba(255,255,255,.18);color:#fff;padding:2px 8px;border-radius:999px;font-weight:700;}
   .time{font-size:11px;color:var(--muted);margin-left:auto;}
   .title{font-size:15.5px;font-weight:700;margin:4px 0 6px;line-height:1.4;}
-  .summary{font-size:13px;color:var(--muted);line-height:1.5;}
+  .summary{font-size:13.5px;color:#c3cadb;line-height:1.65;white-space:pre-line;}
   .empty{text-align:center;color:var(--muted);padding:50px 0;font-size:14px;}
   footer{text-align:center;color:var(--muted);font-size:12px;padding:20px;}
   .legend{text-align:center;font-size:12px;color:var(--muted);margin-bottom:6px;}
@@ -44,7 +46,7 @@
   <p id="updated">데이터 불러오는 중...</p>
 </header>
 <div class="tabs" id="tabs"></div>
-<div class="legend">★ 파랑 = 리그 메인 기자 · 주황 = 보강 기자 · 흰색 = 레알 마드리드 우선 노출(라리가)</div>
+<div class="legend">★ 파랑 = 리그 메인 기자 · 주황 = 보강 기자 · 흰색 = 레알 마드리드 우선 노출(라리가) · 카드에 기사 내용 요약 표시</div>
 <main><div class="grid" id="grid"></div></main>
 <footer>
   출처: BBC Sport · Sky Sports · ESPN FC · The Guardian · Marca · AS · Real Madrid 공식 · Gazzetta dello Sport · Football Italia · CaughtOffside · L'Équipe · Get French Football News · Kicker · Bundesliga 공식<br>
@@ -78,7 +80,7 @@ function render(){
     else if(it.reporter_tier === "보강 기자") repBadge = `<span class="badge-support">${it.reporter}</span>`;
     const rmBadge = it.real_madrid ? `<span class="badge-rm">레알 마드리드</span>` : "";
     return `
-    <a class="card" href="${it.link}" target="_blank" rel="noopener">
+    <div class="card">
       <div class="card-top">
         <span class="source">${it.source}</span>
         <span class="badge">${it.trust}</span>
@@ -87,8 +89,9 @@ function render(){
         <span class="time">${timeAgo(it.published)}</span>
       </div>
       <div class="title">${it.title}</div>
-      <div class="summary">${it.summary}</div>
-    </a>
+      <div class="summary">${it.summary || '요약 정보가 없습니다.'}</div>
+      <a class="readmore" href="${it.link}" target="_blank" rel="noopener">원문 기사 보기 →</a>
+    </div>
   `;
   }).join("");
 }
