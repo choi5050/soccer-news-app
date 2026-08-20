@@ -14,12 +14,21 @@
   header{padding:28px 24px 12px;text-align:center;}
   header h1{margin:0 0 6px;font-size:26px;font-weight:800;}
   header p{margin:0;color:var(--muted);font-size:13px;}
-  .tabs{display:flex;gap:8px;justify-content:center;flex-wrap:wrap;padding:18px 12px;}
+  .tabs{display:flex;gap:8px;justify-content:center;flex-wrap:wrap;padding:18px 12px 6px;}
   .tab{padding:9px 18px;border-radius:999px;background:var(--card);border:1px solid var(--border);
        color:var(--muted);cursor:pointer;font-size:14px;font-weight:600;transition:.15s;}
   .tab.active{background:var(--accent);color:#fff;border-color:var(--accent);}
   .tab:hover{border-color:var(--accent);}
   main{max-width:900px;margin:0 auto;padding:0 16px 60px;}
+
+  .reporters{display:flex;gap:10px;flex-wrap:wrap;justify-content:center;padding:6px 16px 16px;}
+  .rep-card{background:var(--card);border:1px solid var(--border);border-radius:10px;padding:8px 12px;
+            font-size:12px;display:flex;align-items:center;gap:6px;}
+  .rep-name{font-weight:700;}
+  .rep-role{font-size:10px;color:var(--muted);}
+  .rep-link{color:var(--accent);text-decoration:none;font-weight:700;margin-left:2px;}
+  .rep-link:hover{text-decoration:underline;}
+
   .grid{display:flex;flex-direction:column;gap:12px;}
   .card{background:var(--card);border:1px solid var(--border);border-radius:14px;padding:16px 18px;
         transition:.15s;color:inherit;display:block;}
@@ -32,12 +41,14 @@
   .badge-main{font-size:10px;background:rgba(79,141,255,.2);color:#7fb0ff;padding:2px 8px;border-radius:999px;font-weight:700;}
   .badge-support{font-size:10px;background:rgba(245,166,35,.2);color:#f5a623;padding:2px 8px;border-radius:999px;font-weight:700;}
   .badge-rm{font-size:10px;background:rgba(255,255,255,.18);color:#fff;padding:2px 8px;border-radius:999px;font-weight:700;}
+  .badge-interview{font-size:10px;background:rgba(168,85,247,.2);color:#c084fc;padding:2px 8px;border-radius:999px;font-weight:700;}
   .time{font-size:11px;color:var(--muted);margin-left:auto;}
   .title{font-size:15.5px;font-weight:700;margin:4px 0 6px;line-height:1.4;}
+  .factbrief{font-size:12.5px;color:#9db3d6;line-height:1.5;margin-bottom:6px;font-weight:600;}
   .summary{font-size:13.5px;color:#c3cadb;line-height:1.65;white-space:pre-line;}
   .empty{text-align:center;color:var(--muted);padding:50px 0;font-size:14px;}
   footer{text-align:center;color:var(--muted);font-size:12px;padding:20px;}
-  .legend{text-align:center;font-size:12px;color:var(--muted);margin-bottom:6px;}
+  .legend{text-align:center;font-size:12px;color:var(--muted);margin-bottom:6px;padding:0 16px;}
 </style>
 </head>
 <body>
@@ -46,11 +57,15 @@
   <p id="updated">데이터 불러오는 중...</p>
 </header>
 <div class="tabs" id="tabs"></div>
-<div class="legend">★ 파랑 = 리그 메인 기자 · 주황 = 보강 기자 · 흰색 = 레알 마드리드 우선 노출(라리가) · 카드에 기사 내용 요약 표시</div>
+<div class="reporters" id="reporters"></div>
+<div class="legend">
+  ★ 파랑 = 지정 메인 기자(작성자 실명 검증됨) · 주황 = 보강 기자(검증됨) · 보라 = 인터뷰 포함 기사 · 흰색 = 레알 마드리드 우선 노출(라리가)<br>
+  요약은 원문 문장을 그대로 옮기지 않고 핵심 사실만 재구성한 "팩트 브리핑" + 언론사 공개 리드문입니다.
+</div>
 <main><div class="grid" id="grid"></div></main>
 <footer>
-  출처: BBC Sport · Sky Sports · ESPN FC · The Guardian · Marca · AS · Real Madrid 공식 · Gazzetta dello Sport · Football Italia · CaughtOffside · L'Équipe · Get French Football News · Kicker · Bundesliga 공식<br>
-  지정 기자: David Ornstein / Sid Lowe / Paolo Bandini / Raphael Honigstein / Jonathan Johnson 외 보강 기자 다수<br>
+  출처: BBC Sport · Sky Sports · ESPN FC · The Guardian(개인 기자 피드 포함) · Marca · AS · Real Madrid 공식 · Gazzetta dello Sport · Football Italia · L'Équipe · Kicker · Bundesliga 공식<br>
+  기자 배지는 RSS 작성자(author) 필드에 이름이 실제로 확인된 기사에만 부여됩니다. 매체 단위 추정 태깅은 사용하지 않습니다.<br>
   최근 48시간 내 게시물만 표시 · fetch_news.py 실행 시마다 자동 갱신
 </footer>
 
@@ -67,6 +82,20 @@ function timeAgo(iso){
   return Math.floor(diffH/24) + "일 전";
 }
 
+function renderReporters(){
+  const box = document.getElementById("reporters");
+  const reps = (DATA.reporter_profiles && DATA.reporter_profiles[current]) || [];
+  if(reps.length === 0){ box.innerHTML = ""; return; }
+  box.innerHTML = reps.map(r => `
+    <div class="rep-card">
+      <span class="rep-name">${r.name}</span>
+      <span class="rep-role">${r.role} · ${r.outlet}</span>
+      ${r.x ? `<a class="rep-link" href="${r.x}" target="_blank" rel="noopener">SNS</a>` : ""}
+      ${r.profile ? `<a class="rep-link" href="${r.profile}" target="_blank" rel="noopener">기사목록</a>` : ""}
+    </div>
+  `).join("");
+}
+
 function render(){
   const grid = document.getElementById("grid");
   const items = (DATA.leagues[current] || []);
@@ -76,19 +105,22 @@ function render(){
   }
   grid.innerHTML = items.map(it => {
     let repBadge = "";
-    if(it.reporter_tier === "메인 기자") repBadge = `<span class="badge-main">★ ${it.reporter}</span>`;
-    else if(it.reporter_tier === "보강 기자") repBadge = `<span class="badge-support">${it.reporter}</span>`;
+    if(it.reporter_verified && it.reporter_tier === "메인 기자") repBadge = `<span class="badge-main">★ ${it.reporter}</span>`;
+    else if(it.reporter_verified && it.reporter_tier === "보강 기자") repBadge = `<span class="badge-support">${it.reporter}</span>`;
     const rmBadge = it.real_madrid ? `<span class="badge-rm">레알 마드리드</span>` : "";
+    const ivBadge = it.is_interview ? `<span class="badge-interview">인터뷰</span>` : "";
     return `
     <div class="card">
       <div class="card-top">
         <span class="source">${it.source}</span>
         <span class="badge">${it.trust}</span>
         ${repBadge}
+        ${ivBadge}
         ${rmBadge}
         <span class="time">${timeAgo(it.published)}</span>
       </div>
       <div class="title">${it.title}</div>
+      <div class="factbrief">${it.fact_brief || ""}</div>
       <div class="summary">${it.summary || '요약 정보가 없습니다.'}</div>
       <a class="readmore" href="${it.link}" target="_blank" rel="noopener">원문 기사 보기 →</a>
     </div>
@@ -102,7 +134,7 @@ function renderTabs(){
     `<div class="tab ${lg===current?'active':''}" data-lg="${lg}">${LEAGUE_LABELS[lg]} (${(DATA.leagues[lg]||[]).length})</div>`
   ).join("");
   tabs.querySelectorAll(".tab").forEach(t => t.onclick = () => {
-    current = t.dataset.lg; renderTabs(); render();
+    current = t.dataset.lg; renderTabs(); renderReporters(); render();
   });
 }
 
@@ -113,6 +145,7 @@ fetch("data.json?t=" + Date.now())
     document.getElementById("updated").textContent =
       "마지막 갱신: " + new Date(d.generated_at).toLocaleString("ko-KR");
     renderTabs();
+    renderReporters();
     render();
   })
   .catch(() => {
